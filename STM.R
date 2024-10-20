@@ -1,6 +1,9 @@
 packages <- c("tidyverse", "tidytext", "stm", "quanteda", "stopwords", "readxl",
               "Rtsne", "rsvd", "geometry", "tm", "tidystm", "stminsights")
 lapply(packages, library, character.only = TRUE)
+
+Sys.setlocale(locale = "Norwegian")
+
 ################################################################################
 
 # Loading the data fixing the date column, and removing usernames
@@ -22,7 +25,7 @@ saveRDS(twitter, "D:/Data/Datasets/CADS_datasets/twitter_data.RDS")
 
 ################################################################################
 
-twitter <- readRDS("D:/Data/Datasets/CADS_datasets/twitter_data.RDS")
+twitter <- readRDS("E:/Data/Datasets/CADS_datasets/twitter_data.RDS")
 glimpse(twitter)
 
 removeUsernames <- function(tweet) {
@@ -52,7 +55,7 @@ twitter_tokens <- quanteda::tokens(twitter_corpus,
                          remove_separators = TRUE,
                          split_tags = FALSE) |>
                   tokens_remove(pattern = c(stopwords::stopwords(source = "snowball", language = "no"), custom_words)) |>
-                  tokens_remove(pattern = c(stopwords(source = "snowball", language = "en")))
+  tokens_remove(pattern = c(stopwords::stopwords(source = "snowball", language = "en")))
 
 tokens_ngrams <- tokens_compound(twitter_tokens, 
                                  phrase(c("korona virus", "corona virus", "korona pandemi", "corona pandemi", 
@@ -194,9 +197,11 @@ stm_k_search <- stm(documents = docs_twitter,
                     set.seed(1234),
                     verbose = TRUE)
 
+stm_k_search # 76 topics
+
 ################################################################################
 
-K <- c(10, 15, 20, 25, 30)
+K <- c(20, 30, 40, 50, 60, 70)
 stm_K_search <- searchK(documents = docs_twitter,
                         vocab = vocab_twitter,
                         K = K,
@@ -204,6 +209,8 @@ stm_K_search <- searchK(documents = docs_twitter,
                         data = meta_twitter,
                         set.seed(1234),
                         verbose = TRUE)
+
+saveRDS(stm_K_search, "~/CADS/searchK.RDS")
 
 plot(stm_K_search)
 plot_stm_k <- data.frame("K" = K, 
@@ -213,13 +220,13 @@ plot_stm_k <- data.frame("K" = K,
 # Reshape to long format
 library("reshape2")
 plot <- melt(plot_stm_k, id=c("K"))
-plot # 15 or 20 topics?
+plot # 50 topics?
 
 ################################################################################
 
-stm_20_interaction <- stm(documents = docs_twitter,
+stm_50_interaction <- stm(documents = docs_twitter,
                           vocab = vocab_twitter,
-                          K = 20,
+                          K = 50,
                           prevalence = ~label * s(date_num),
                           content = ~label,
                           max.em.its = 75,
@@ -228,7 +235,7 @@ stm_20_interaction <- stm(documents = docs_twitter,
                           set.seed(1234),
                           verbose = TRUE)
 levels(meta_twitter$label) # misinformation as baseline?
-# saveRDS(stm_20_interaction, "~/CADS/Models/STM_20_interaction.RDS")
+# saveRDS(stm_50_interaction, "~/CADS/Models/STM_50_interaction.RDS")
 
 plot(stm_20_interaction)
 
