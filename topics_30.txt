@@ -1,0 +1,570 @@
+Topic 1: 
+ 	 Marginal Highest Prob: viruset, mennesker, virus, lenger, problemet, kontroll, farlig, leve, sars, omikron, smitter, aller, frykt, cov, corona_viruset, raskt, lengre, tidligere, stoppe, delta 
+ 	 Marginal FREX: cov, sars, varianten, omikron, virus, viruset, immunitet, naturlig, variant, smittsomt, wuhan, varianter, flokkimmunitet, kinesiske, bakterier, dyr, luft, kinesisk, mutasjoner, spredningen 
+ 	 Marginal Lift: epochtimes, avlidna, bioingenioren, bioingeniør, ytterligare, ild, massesmittehendelser, immunitetsgjeld, bat, smittekjeder, resmitte, gjenstander, variasjonen, armkroken, kobber, sjukdomsbyrden, <U+0001F060><U+200D><U+2642><U+FE0F>, motbevist, flurona, kommunistpartiet 
+ 	 Marginal Score: viruset, virus, mennesker, lenger, problemet, kontroll, farlig, sars, leve, omikron, smitter, cov, corona_viruset, frykt, immunitet, delta, stoppe, raskt, aller, trolig 
+ 
+ 	 Topic Kappa: cov, sars, biolog, mutert, mutasjon, mers, akademiet, viruser, mutasjoner, verten, mutere, load, endemiske, virolog, syntetisk, infisere, koronavirusene, rna, ebv, mottakelige 
+ 	 Kappa with Baseline: viruset, virus, sars, cov, immunitet, omikron, mutasjoner, variant, mutert, varianter, dødelig, varianten, flokkimmunitet, wuhan, naturlig, immune, delta, smittsomt, mutasjon, farligere 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: viruset, virus, sars, cov, immunitet, omikron, dødelig, kina, mutasjoner, influensa, flokkimmunitet, varianter, variant, covid, farligere, tidligere, hiv, naturlig, immune, dyr 
+ 	 	 Marginal FREX: cov, sars, mutasjoner, mutert, mutasjon, varianter, wuhan, virus, immune, hiv, variant, smittsomt, immunitet, viruset, varianten, rna, corona_virus, mutere, prof, mers 
+ 	 	 Marginal Lift: vitenskaps, fysologi, storoffiser, æreslegionen, nobelspris, montagnier, luc, cell, zika, disease, severe, biolog, dødlige, biovåpen, ace2, theory, viral, arvestoff, syntetisk, finansierte 
+ 	 	 Marginal Score: viruset, virus, sars, cov, immunitet, mutasjoner, dødelig, omikron, varianter, variant, flokkimmunitet, hiv, kina, farligere, immune, wuhan, naturlig, varianten, dyr, mutert 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: viruset, mennesker, virus, lenger, problemet, kontroll, farlig, leve, sars, omikron, smitter, aller, frykt, corona_viruset, raskt, lengre, tidligere, stoppe, delta, dermed 
+ 	 	 Marginal FREX: corona_viruset, smitter, sars, sykdommen, varianten, cov, omikron, effektivt, dyr, smittsom, navn, trolig, potensielt, stoppe, variant, spredningen, smittsomt, viruset, naturlig, virus 
+ 	 	 Marginal Lift: epochtimes, avlidna, bioingenioren, bioingeniør, ytterligare, ild, massesmittehendelser, immunitetsgjeld, bat, smittekjeder, resmitte, gjenstander, variasjonen, armkroken, kobber, sjukdomsbyrden, <U+0001F060><U+200D><U+2642><U+FE0F>, motbevist, flurona, kommunistpartiet 
+ 	 	 Marginal Score: viruset, mennesker, virus, lenger, problemet, kontroll, farlig, leve, sars, smitter, omikron, corona_viruset, frykt, aller, stoppe, raskt, trolig, lengre, sprer, delta 
+Topic 2: 
+ 	 Marginal Highest Prob: syke, alvorlig, sykdom, syk, vaksinert, covid, verre, hjelp, behandling, hjelper, utsatt, kampen, redd, sliter, grunnet, dø, tillegg, frisk, friske, mistet 
+ 	 Marginal FREX: arsenal, vitamin, gjennomgått, kroppen, syk, citytimes, immunforsvar, hoste, frisk, troppen, plager, sjanse, vaksina, angst, tyrkianytt, spurs, slitt, feber, smak, forkjølelse 
+ 	 Marginal Lift: konspitroll, lakh, alisson, afcon, brentford, fabinho, dijk, zxc, keita, aston, smaksans, tungpust, tungpustethet, noravl, muskelsmerter, allmenntilstand, leyton, xhaka, hjertemuskelen, brighton 
+ 	 Marginal Score: syke, alvorlig, sykdom, syk, vaksinert, verre, behandling, hjelper, utsatt, kampen, sliter, redd, hjelp, frisk, friske, grunnet, dø, studie, forkjølelse, mistet 
+ 
+ 	 Topic Kappa: svulster, autoimmune, helvetesild, hjerteposebetennelse, antistoffene, immunsystemet, placebo, kreftformer, patolog, firstpost, utmattelsessyndrom, quercetin, gmo, kureres, preparat, medikament, cellene, igm, ivermektin, immun 
+ 	 Kappa with Baseline: sykdom, vaksinert, covid, alvorlig, syk, kroppen, beskytter, immunforsvaret, gjennomgått, immun, antistoffer, angst, immunforsvar, studie, sjanse, vaksina, online, vitamin, uvaksinert, hjelper 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: vaksinen, vaksine, covid, sykdom, alvorlig, vaksinert, syk, beskytter, pasienter, sykdommen, kroppen, beskyttelse, studie, antistoffer, immun, hjelper, beskyttet, fullvaksinerte, effektiv, immunforsvaret 
+ 	 	 Marginal FREX: vaksinen, vaksinert, immunforsvaret, bivirkningene, beskyttet, immun, spike, beskyttelse, gen, gjennomgått, immunsystemet, kroppen, angst, autoimmune, sykdom, astra, immunforsvar, citytimes, blodet, cannabis 
+ 	 	 Marginal Lift: fragmenter, vaccinated, svulster, proteiner, bløffen, autoimmune, gen, invalidiserende, spike, proteinet, helvetesild, c19ivermectin, cannabis, adenovirus, ufarlige, latent, inflammasjon, gmo, giftige, langtidseffekt 
+ 	 	 Marginal Score: vaksinen, vaksine, sykdom, alvorlig, vaksinert, covid, syk, beskytter, beskyttelse, kroppen, sykdommen, pasienter, immun, beskyttet, antistoffer, immunforsvaret, gjennomgått, studie, fullvaksinerte, effektiv 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: syke, alvorlig, sykdom, syk, vaksinert, covid, verre, hjelp, behandling, hjelper, utsatt, kampen, sliter, redd, grunnet, dø, tillegg, frisk, friske, mistet 
+ 	 	 Marginal FREX: alvorlig, uvaksinert, steigan, vitamin, syk, gjennomgått, kroppen, immunforsvar, studie, hodepine, mild, beskytter, sjansen, langvarige, sykdomsforløp, symptomene, plager, hoste, arsenal, forkjølelse 
+ 	 	 Marginal Lift: konspitroll, lakh, alisson, afcon, brentford, dijk, fabinho, zxc, keita, aston, smaksans, tungpust, tungpustethet, noravl, muskelsmerter, allmenntilstand, leyton, xhaka, brighton, bihulebetennelse 
+ 	 	 Marginal Score: syke, alvorlig, sykdom, syk, vaksinert, verre, behandling, hjelper, utsatt, redd, hjelp, kampen, sliter, frisk, friske, grunnet, dø, studie, forkjølelse, steigan 
+Topic 3: 
+ 	 Marginal Highest Prob: fhi, regjeringen, følge, situasjonen, koronaviruset, råd, informasjon, koronanorge, nettavisen, følger, finner, covid19norway, hei, regler, side, stortinget, anbefaler, forslag, pressekonferanse, kommunene 
+ 	 Marginal FREX: anbefalinger, nyhetsvarsel, appen, folkehelseinstituttet, kommunene, smittestopp, covid19norway, hyhetsvarsel, app, rådene, regjeringen, råd, informasjon, informasjonen, hdir, anbefaling, omsorgsminister, anbefalingene, personvern, regjeringens 
+ 	 Marginal Lift: hyhetsvarsel, hods, nyhetsvarsel, familieminister, bygningsloven, beredskapsdepartementet, integreringsminister, sosialminister, friskoleloven, frende, proposisjon, ingolf, barnehageloven, moderniseringsdepartementet, høringsnotat, hamarregionen, omsorgsminister, høringsfrist, omsorgsministeren, melanor 
+ 	 Marginal Score: regjeringen, fhi, følge, situasjonen, råd, koronaviruset, informasjon, koronanorge, nettavisen, følger, finner, covid19norway, regler, hei, side, anbefaler, stortinget, kommunene, forslag, regjeringens 
+ 
+ 	 Topic Kappa: kildekoden, datatilsynet, simula, lokasjonsdata, appen, helhetlige, personvernet, ios, fremgår, app, fhi, personvern, ihr, utviklerne, smitteapp, whos, lovteksten, notatet, ignorerte, aavitsland 
+ 	 Kappa with Baseline: fhi, regjeringen, informasjon, råd, appen, app, følge, regler, fhis, anbefaler, smittestopp, anbefalinger, rapport, folkehelseinstituttet, koronanorge, følger, vurdering, lytte, personvern, helsemyndighetene 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: fhi, regjeringen, informasjon, følge, råd, appen, strategi, anbefaler, følger, app, covid, gitt, helsemyndighetene, regler, håndtering, tilgjengelig, regjering, rapport, stoler, ekspertene 
+ 	 	 Marginal FREX: appen, fhi, app, smittestopp, gravide, personvern, fhis, beslutninger, stoler, ssb, anbefalinger, datatilsynet, ekspertene, hdir, koden, lansert, formålet, whos, håndtering, preben 
+ 	 	 Marginal Lift: misbrukes, ihr, helliger, sharia, source, adlyde, reikerås, kildekoden, datatilsynet, android, kriminell, hemmeligholde, ill, evidensen, sletter, formålet, fremgår, simula, api, helhetlige 
+ 	 	 Marginal Score: fhi, regjeringen, informasjon, appen, råd, følge, strategi, app, anbefaler, følger, håndtering, stoler, regler, tilgjengelig, helsemyndighetene, gravide, ekspertene, rapport, regjering, smittestopp 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: fhi, regjeringen, følge, situasjonen, koronaviruset, råd, koronanorge, informasjon, nettavisen, finner, følger, covid19norway, hei, regler, side, stortinget, anbefaler, forslag, pressekonferanse, kommunene 
+ 	 	 Marginal FREX: regjeringens, folkehelseinstituttet, covid19norway, regjeringen, kommunene, nyhetsvarsel, anbefalinger, appen, språk, ntb, rådene, råd, smittestopp, anbefaler, epidemien, stortinget, myndighetenes, informasjon, hyhetsvarsel, kommunikasjon 
+ 	 	 Marginal Lift: hyhetsvarsel, hods, nyhetsvarsel, familieminister, bygningsloven, beredskapsdepartementet, integreringsminister, sosialminister, friskoleloven, frende, proposisjon, ingolf, moderniseringsdepartementet, barnehageloven, høringsnotat, hamarregionen, omsorgsminister, høringsfrist, omsorgsministeren, melanor 
+ 	 	 Marginal Score: regjeringen, fhi, følge, situasjonen, koronaviruset, råd, informasjon, koronanorge, nettavisen, finner, følger, covid19norway, regler, hei, side, stortinget, anbefaler, forslag, kommunene, regjeringens 
+Topic 4: 
+ 	 Marginal Highest Prob: usa, trump, ligger, info, flest, president, valget, hus, biden, stemme, vinner, worldometers, dødsfald, pleier, korrekt, nyttig, vinne, rasisme, presidenten, presse 
+ 	 Marginal FREX: worldometers, dødsfald, trump, president, amerikanere, presidenten, valget, usa, registreret, hvite, trumps, vinner, donald_trump, japan, demokratene, stemme, biden, spain, info, arbeidsledigheten 
+ 	 Marginal Lift: registreret, dødsfald, dødfald, netherlands, ireland, spain, chief, oc, ødeleggelsene, yle, vor, fagorganisering, kandidaten, reder, cherry, folkemøter, 2valg, kuppforsøk, dow, lekene 
+ 	 Marginal Score: usa, trump, ligger, info, flest, president, valget, biden, hus, stemme, vinner, worldometers, dødsfald, presidenten, vinne, korrekt, nyttig, pleier, rasisme, presse 
+ 
+ 	 Topic Kappa: republikanske, stater, gop, ulv, ukritiske, valgfusket, famler, sovjet, anonyme, qanon, demokratene, sanders, obama, stemt, bernie, naive, brazil, blinde, idiotene, poststemmer 
+ 	 Kappa with Baseline: usa, trump, kilde, president, amerikanere, valget, info, biden, stater, stemme, presidenten, donald_trump, hvite, demokratene, trumps, svarte, korrekt, angrep, japan, tapte 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: usa, trump, totalt, president, amerikanske, biden, virkeligheten, info, cnn, feil, stemmer, stemme, kilde, valget, amerikanere, stater, vold, korrekt, angrep, flest 
+ 	 	 Marginal FREX: stater, virkeligheten, amerikanere, vold, president, demokratene, trump, innrømme, donald_trump, innrømmet, oppfatter, svarte, usa, vås, ansvarlig, trumps, cnn, ulv, dumhet, presidenten 
+ 	 	 Marginal Lift: survival, godtroende, kunnskapshat, villedet, dumhet, plapring, drone, usannheter, innrømmet, ukritiske, trakasserer, gop, republikanske, ulv, anonyme, famler, sovjet, naive, blinde, valgfusket 
+ 	 	 Marginal Score: usa, trump, president, totalt, amerikanske, virkeligheten, biden, cnn, amerikanere, stemme, info, valget, kilde, stater, vold, angrep, ansvarlig, presidenten, demokratene, donald_trump 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: usa, trump, ligger, info, flest, valget, president, hus, biden, stemme, vinner, worldometers, dødsfald, pleier, vinne, rasisme, nyttig, korrekt, presse, presidenten 
+ 	 	 Marginal FREX: trump, biden, worldometers, president, dødsfald, stemme, valget, usa, presidenten, amerikanere, presse, hvite, trumps, registreret, japan, nyttig, donald_trump, vinner, demokratene, angrep 
+ 	 	 Marginal Lift: registreret, dødsfald, dødfald, netherlands, ireland, spain, chief, oc, ødeleggelsene, yle, vor, fagorganisering, kandidaten, reder, cherry, folkemøter, 2valg, kuppforsøk, dow, lekene 
+ 	 	 Marginal Score: usa, trump, ligger, info, flest, valget, president, hus, biden, stemme, vinner, worldometers, dødsfald, pleier, vinne, nyttig, presse, rasisme, korrekt, presidenten 
+Topic 5: 
+ 	 Marginal Highest Prob: vg, pandemien, dagbladet, dax18, nrknyheter, nrkdebatt, covid19, coronavirus, lockdown, polkvart, slår, resett, nrkurix, håndtering, fortsetter, youtu, maske, utvikling, støtter, sjekk 
+ 	 Marginal FREX: polkvart, nrkurix, nrkdebatt, nrknyheter, dax18, eiker, øvreeikerkommune, oeiker, ovre, øvreeiker, stopp, coronaviruset, importsmitte, øvre, smittespredere, altblirbra, bekjempe, oppstart, tannlege, fns 
+ 	 Marginal Lift: coromavirus, ovre, eiker, øvreeikerkommune, bdonorge, polkvar, finalcall, finalcalltravel, travelsmarter, tannsmeden, altblirbra, alvik, unaids, guterres, tallsomteller, tietoevry, canariajournalen, trendsworld, antikroppar, canaria 
+ 	 Marginal Score: vg, pandemien, dagbladet, dax18, nrknyheter, nrkdebatt, lockdown, polkvart, covid19, nrkurix, coronavirus, slår, resett, håndtering, youtu, maske, eiker, utvikling, coronaviruset, sjekk 
+ 
+ 	 Topic Kappa: un, corruption, smitteimport, polvart, smittespredere, smittesprederpass, mangen, coverup, giga, kunnskapsløse, resolusjon, warcrimes, whatshappeninginmyanmar, smitteimporten, sikkerhetsråd, international, nrknyheter, valg21, smittespreder, løgnen 
+ 	 Kappa with Baseline: covid19, coronavirus, nrknyheter, dax18, nrkdebatt, nrkurix, polkvart, coronaviruset, bekjempe, corruption, un, smittespredere, stopp, fns, kinas, polvart, konspirasjoner, importsmitte, youtu 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: coronavirus, covid19, nrknyheter, dax18, nrkdebatt, bekjempe, eu, coronaviruset, nrkurix, fullvaksinert, corruption, polkvart, muterer, wef, un, unntak, landet, vaksine, covid, konspirasjoner 
+ 	 	 Marginal FREX: corruption, nrknyheter, wef, coronavirus, nrkurix, un, polvart, polkvart, fullvaksinert, nrkdebatt, dax18, smittespredere, coronaviruset, bekjempe, koronapass, derre, smitteimport, konspirasjoner, smittesprederpass, kinas 
+ 	 	 Marginal Lift: smittesprederpass, corruption, polvart, genteknologi, nwo, stoppimportsmitte, viruse, un, farligt, atombombe, mangen, smitteimport, ulvestad, thegreatreset, konspirasjoner, wef, muterer, våset, løgnen, kunnskapsløse 
+ 	 	 Marginal Score: coronavirus, covid19, nrknyheter, dax18, nrkdebatt, bekjempe, corruption, nrkurix, coronaviruset, eu, fullvaksinert, polkvart, muterer, wef, un, polvart, konspirasjoner, unntak, stoppes, smittespredere 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: vg, pandemien, dagbladet, dax18, nrkdebatt, nrknyheter, lockdown, covid19, slår, resett, polkvart, håndtering, nrkurix, coronavirus, fortsetter, youtu, maske, utvikling, støtter, sjekk 
+ 	 	 Marginal FREX: nrkdebatt, nrknyheter, nrkurix, polkvart, dax18, eiker, oeiker, fn, øvreeiker, øvreeikerkommune, ovre, øvre, tidsskriftet, <U+30FC>, felles, hjemmeside, coronaviruset, stopp, jenter, oppstart 
+ 	 	 Marginal Lift: coromavirus, ovre, eiker, øvreeikerkommune, polkvar, bdonorge, finalcall, finalcalltravel, travelsmarter, tannsmeden, altblirbra, alvik, unaids, guterres, tallsomteller, tietoevry, canariajournalen, trendsworld, antikroppar, canaria 
+ 	 	 Marginal Score: vg, pandemien, dagbladet, dax18, nrkdebatt, nrknyheter, lockdown, polkvart, slår, resett, nrkurix, håndtering, covid19, youtu, maske, utvikling, støtter, eiker, sjekk, felles 
+Topic 6: 
+ 	 Marginal Highest Prob: gi, store, penger, krisen, krise, støtte, beredskap, staten, ekstra, økt, økonomisk, krig, fremover, økonomi, betale, millioner, krever, trenger, milliarder, kroner 
+ 	 Marginal FREX: bedrifter, skatt, lån, arbeidsplasser, betaler, mdg, inntekter, kriser, utgifter, forbruk, penger, frp, nav, dagpenger, grønne, staten, ap, beredskap, kroner, budsjett 
+ 	 Marginal Lift: greenpeace, kraftkrevende, nyregjering2021, pengemengden, bedriftenes, grunnrente, pengemengde, tørrår, batteribiler, balansekraft, vannverdimodellene, vannkraftproduksjon, enova, utbyttene, energieffektivisering, ppa, avdrag, gasspris, utbyggere, totalforsvar 
+ 	 Marginal Score: gi, store, penger, krisen, krise, støtte, beredskap, staten, økonomisk, krig, betale, økonomi, kroner, bedrifter, milliarder, økt, nav, e24, ap, klima 
+ 
+ 	 Topic Kappa: kapitalister, usosiale, milliardærer, individets, borgerne, kapitalismen, inngrep, grådige, aksjonærer, misbruk, borgernes, ødeleggelse, skattepengene, lønnsmottakere, adelen, kommunister, sosialister, trylletale, ulønnsomt, økologiske 
+ 	 Kappa with Baseline: penger, staten, gi, store, makt, politikerne, inngrep, samfunn, tjene, rettigheter, skape, krig, tjener, støtte, parti, økonomisk, skapt, frp, grønne, pengene 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: gi, politikere, store, penger, staten, handler, makt, kontroll, folket, samfunn, skape, krig, støtte, frihet, politikk, inngrep, skapt, politikerne, globale, rettigheter 
+ 	 	 Marginal FREX: inngrep, staten, politikere, tjene, demokratisk, demokrati, rettigheter, demokratiet, parti, velgere, politikerne, grunnleggende, kontrollere, borgerne, kapitalismen, tjener, totalitært, partier, definere, penger 
+ 	 	 Marginal Lift: neo, liberalistene, fjols, totalitært, grotesk, bløffer, skatteparadis, straffedom, beslutningsgrunnlag, borgernes, milliardærene, urimelighet, pedokrati, adel, legemiddelbransjen, regissert, borgerne, motarbeidet, ødeleggelse, frimureri 
+ 	 	 Marginal Score: politikere, gi, penger, staten, store, makt, handler, kontroll, samfunn, inngrep, folket, skape, krig, politikerne, frihet, skapt, rettigheter, politikk, globale, tjene 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: gi, store, penger, krisen, krise, støtte, beredskap, ekstra, staten, økt, økonomisk, krig, fremover, økonomi, millioner, betale, krever, trenger, milliarder, kroner 
+ 	 	 Marginal FREX: kroner, bedrifter, økonomiske, strøm, mdg, betaler, kriser, krisen, penger, arbeidsplasser, olje, nav, skatt, inntekter, lån, grønn, gass, krig, selskaper, frp 
+ 	 	 Marginal Lift: greenpeace, kraftkrevende, nyregjering2021, pengemengden, bedriftenes, grunnrente, pengemengde, tørrår, batteribiler, balansekraft, vannkraftproduksjon, vannverdimodellene, enova, utbyttene, energieffektivisering, avdrag, ppa, gasspris, utbyggere, totalforsvar 
+ 	 	 Marginal Score: gi, store, penger, krisen, krise, støtte, beredskap, staten, økonomisk, krig, betale, økonomi, kroner, milliarder, bedrifter, krever, økt, nav, e24, klima 
+Topic 7: 
+ 	 Marginal Highest Prob: veldig, godt, bra, takk, faktisk, synes, gode, trenger, enig, skjønner, spørsmål, gjerne, tenker, svar, fint, klarer, ellers, nettopp, rart, viktig 
+ 	 Marginal FREX: spørsmål, takk, hyggelig, svare, svarer, tweeten, svart, spør, beklager, tanker, stiller, <U+263A><U+FE0F>, kult, kjære, fornøyd, diskusjon, spørre, folka, ekte, utrolig 
+ 	 Marginal Lift: omtanken, lekkert, tvi, påminnelsen, bioen, bunad, humoren, dotter, tweetsa, fakkelmannen, kvik, strikker, hihi, høflige, konstruktiv, fargerike, kompliment, gif, bestevenn, chatten 
+ 	 Marginal Score: veldig, godt, bra, takk, synes, faktisk, gode, spørsmål, enig, skjønner, gjerne, svar, trenger, fint, nettopp, utrolig, ellers, ok, klarer, høre 
+ 
+ 	 Topic Kappa: humoristisk, metaforer, latterliggjøre, fremheve, hellige, kommentarer, vene, morset, kverulerer, intensjoner, kathrine, argumentasjon, etterlatte, antagelser, tulla, innta, folka, gjentas, febrilsk, trans 
+ 	 Kappa with Baseline: synes, spørsmål, tenker, svar, debatten, takk, spør, prøver, skrev, ham, svare, vite, ekte, stiller, forsøk, tråd, folka, skjønner, utrolig, svart 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: spørsmål, synes, mennesker, tenker, lov, kalle, etc, vite, svar, slags, spørsmålet, skjønner, prøver, spør, takk, stille, forstå, skrev, gode, virkelig 
+ 	 	 Marginal FREX: kalle, argumenter, kritiske, spørsmål, meninger, diskutere, villig, fornektere, lenke, folka, forsøker, ekte, enkle, synes, kommentarer, spørsmålet, menneskers, religion, stille, svart 
+ 	 	 Marginal Lift: nazist, umoralske, meningsmotstandere, fornektere, hellige, legitime, brilliant, islamister, realiteter, paranoid, indusert, opsjoner, uprøvd, røster, metaforer, pedofile, humoristisk, def, kildekritisk, kalle 
+ 	 	 Marginal Score: spørsmål, synes, kalle, tenker, lov, etc, svar, spørsmålet, slags, vite, mennesker, spør, prøver, stille, skrev, kritiske, skjønner, diskutere, ekte, forsøk 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: veldig, godt, bra, takk, faktisk, synes, gode, trenger, enig, skjønner, gjerne, spørsmål, fint, tenker, svar, klarer, nettopp, ellers, rart, viktig 
+ 	 	 Marginal FREX: takk, utrolig, svare, hyggelig, tweeten, tanker, spørsmål, svarer, høre, spurte, sjekke, svart, beklager, kult, <U+263A><U+FE0F>, spør, liker, fornøyd, orker, flott 
+ 	 	 Marginal Lift: omtanken, lekkert, tvi, påminnelsen, bioen, bunad, humoren, dotter, tweetsa, fakkelmannen, kvik, strikker, hihi, høflige, konstruktiv, fargerike, kompliment, gif, bestevenn, chatten 
+ 	 	 Marginal Score: veldig, godt, bra, takk, faktisk, synes, gode, enig, skjønner, spørsmål, gjerne, trenger, fint, svar, nettopp, ellers, klarer, utrolig, høre, ok 
+Topic 8: 
+ 	 Marginal Highest Prob: korona, nrk, politiet, tilfelle, melder, frykter, nakstad, mann, trøndelag, farlig, overraskende, smitta, kultur, bodø, politi, st, kvinne, skriver, hurtigruten, korona_virus 
+ 	 Marginal FREX: espen, trøndelag, hurtigruten, nrkdistriktsisteosloogvikenrss, medier24, tran, nrkdistriktsistenordlandrss, nrkdistriktsistetrondelagrss, torp, roald, m24, cruiseskip, nrkdistriktsistesorlandetrss, nrkdistriktsistehordalandrss, helgelandssykehuset, bord, mannskapet, nakstad, lofoten, fredrikstadavisa 
+ 	 Marginal Lift: akkuratnå, bobilverden, radiorubben, radioruben, rubben, fotpatrulje, meslingepidemi, alenesammen, lokalradio, mjølkekvotar, koronasamfunnet, melkekvoter, nrkdistriktsistetrondelagrss, utenriksnyheter, frokostradio, skipslegen, blv, kork, satiriks, roald 
+ 	 Marginal Score: korona, nrk, politiet, melder, tilfelle, frykter, nakstad, trøndelag, mann, farlig, politi, bodø, st, hurtigruten, kvinne, kultur, overraskende, smitta, tran, korona_virus 
+ 
+ 	 Topic Kappa: konspirasjonene, overvurdert, kjæledyr, utenriksnyheter, urix, profitører, dokumentarer, erklærte, skremselspropaganda, helsedirektør, møllers, tåpelig, vaksineskeptikere, vollvik, profitørene, opptrer, oppslaget, bibelen, assisterende, olsvik 
+ 	 Kappa with Baseline: korona, frykter, nakstad, politi, urix, helsedirektør, skremselspropaganda, reaksjoner, dokumentarer, opptrer, tran, leter, utenriksnyheter, espen_nakstad, kjæledyr, koronavaksinen, tåpelig, assisterende, erklærte 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: farlig, korona, skriver, koronavirus, koronaviruset, direkte, lege, advarer, frykter, bekymret, korona_viruset, nakstad, forsker, funn, slutte, tilfeldig, covid, bølge, ny, korona_vaksinen 
+ 	 	 Marginal FREX: farlig, gener, advarer, sauer, vaksinemotstand, florerer, korona_vaksinen, skremmer, tilfeldig, skremsel, frykter, makta, titusenvis, vaksineskeptikere, dummeste, virusvariant, bekymret, eksistens, politi, bølge 
+ 	 	 Marginal Lift: konspiratorikere, gener, vaksineskeptikere, evil, harmløst, koronafornekter, konspirasjonene, skraphaug, sauer, vaksinens, skremsel, tese, eksistens, virusvariant, smittebegrensende, grobunn, underforstått, høyreekstremisme, pillen, farlig 
+ 	 	 Marginal Score: farlig, skriver, korona, koronavirus, koronaviruset, advarer, lege, frykter, direkte, bekymret, korona_viruset, nakstad, tilfeldig, funn, forsker, bølge, slutte, korona_vaksinen, gener, sauer 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: korona, nrk, politiet, tilfelle, melder, frykter, nakstad, mann, trøndelag, overraskende, smitta, kultur, bodø, st, politi, kvinne, hurtigruten, korona_virus, tran, ulovlig 
+ 	 	 Marginal FREX: espen, medier24, tran, nrkdistriktsisteosloogvikenrss, hurtigruten, trøndelag, olavs, russen, bord, amundsen, politiet, nrkdistriktsistenordlandrss, st, nrkdistriktsistetrondelagrss, hospital, nakstad, nrkdistriktsistesorlandetrss, roald, torp, korona_virus 
+ 	 	 Marginal Lift: akkuratnå, bobilverden, radiorubben, radioruben, rubben, fotpatrulje, meslingepidemi, lokalradio, alenesammen, mjølkekvotar, koronasamfunnet, melkekvoter, nrkdistriktsistetrondelagrss, frokostradio, skipslegen, blv, kork, satiriks, roald, arbeidsminister 
+ 	 	 Marginal Score: korona, nrk, politiet, melder, tilfelle, frykter, nakstad, trøndelag, mann, st, bodø, politi, hurtigruten, kvinne, smitta, kultur, overraskende, korona_virus, tran, ulovlig 
+Topic 9: 
+ 	 Marginal Highest Prob: siste, totalt, pasienter, sykehus, innlagt, døgn, året, årene, registrert, smittetilfeller, løpet, bekreftet, respirator, dødsfall, uken, sykehuset, dagene, desember, ukene, kristiansand 
+ 	 Marginal FREX: siste, årene, dagene, ukene, døgnet, bekreftet, tilkoblet, 14d, 7d, året, løpet, intensivavdelinger, klokken, uken, månedene, nøkkeltall, åra, døgn, havner, hvorav 
+ 	 Marginal Lift: 7d, 14d, tilkoblet, sorost, nyg, utvei, intensivavdelinger, gnag, vredens, koronainnlagte, månedene, interaktiv, årene, influensapasienter, sengepost, klokken, kalnes, folkeopprøret, rehabiliteringstilbud, akuttmottak 
+ 	 Marginal Score: siste, totalt, sykehus, pasienter, innlagt, døgn, året, årene, registrert, løpet, bekreftet, smittetilfeller, respirator, uken, dagene, sykehuset, dødsfall, desember, ukene, kristiansand 
+ 
+ 	 Topic Kappa: utvei, uavklarte, setningen, tjue, rest, verset, følg, årene, omme, månedene, leppa, tiårene, slenger, øret, havner, utgjort, året, åra, overbelastede, måneden 
+ 	 Kappa with Baseline: siste, sykehus, årene, året, følg, løpet, bekreftet, månedene, dagene, havner, ukene, uken, lagt, døgnet, åra, respirator, lå, måneden, setningen 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: siste, ganger, gått, året, årene, lagt, sykehus, par, viktigste, mnd, løpet, uttrykk, bekreftet, oppfatning, født, propagandaen, indikerer, månedene, energi, havner 
+ 	 	 Marginal FREX: ganger, viktigste, propagandaen, uttrykk, indikerer, oppfatning, gått, født, setning, årene, fossil, krypto, månedene, par, energi, bølgen, oppriktig, misforstår, året, siste 
+ 	 	 Marginal Lift: crypto, menneskehetens, krypto, utvei, propagandaen, nazismen, asiatere, jp, norman, uttrykk, scam, klassifisere, 18mnd, riksrett, setning, oppfatning, indikerer, fossil, setningen, uavklarte 
+ 	 	 Marginal Score: siste, ganger, gått, årene, året, lagt, viktigste, par, sykehus, uttrykk, mnd, løpet, oppfatning, propagandaen, født, bekreftet, indikerer, månedene, energi, havner 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: siste, totalt, pasienter, sykehus, innlagt, døgn, året, registrert, årene, smittetilfeller, løpet, bekreftet, respirator, dødsfall, sykehuset, uken, desember, dagene, ukene, kristiansand 
+ 	 	 Marginal FREX: siste, bekreftet, årene, døgnet, dagene, ukene, året, løpet, 14d, 7d, tilkoblet, uken, hvorav, totalt, nøkkeltall, månedene, intensivavdelinger, døgn, åra, havner 
+ 	 	 Marginal Lift: 7d, 14d, tilkoblet, sorost, nyg, intensivavdelinger, gnag, vredens, koronainnlagte, interaktiv, influensapasienter, sengepost, klokken, kalnes, folkeopprøret, rehabiliteringstilbud, akuttmottak, nøkkeltall, lovisenberg, avlaster 
+ 	 	 Marginal Score: siste, totalt, pasienter, sykehus, innlagt, døgn, året, årene, registrert, løpet, smittetilfeller, bekreftet, respirator, uken, dagene, sykehuset, dødsfall, desember, ukene, kristiansand 
+Topic 10: 
+ 	 Marginal Highest Prob: tiltak, tiltakene, liv, lei, bt, fram, restriksjoner, frå, visst, reglene, debatt, strenge, dugnad, veit, dagsavisen, smitta, ille, berre, meir, tida 
+ 	 Marginal FREX: berre, meir, kjem, sjå, vera, meiner, charter, framleis, kor, heime, treng, saman, veke, held, svein, vanleg, strenge, veka, truleg, synest 
+ 	 Marginal Lift: butikkar, attende, anten, alvorlege, inngripande, tippar, brot, aukar, allereie, amerikanarar, raude, byrja, byrjar, smittevernlova, løn, ikj, dødstala, naudsynt, innspel, låge 
+ 	 Marginal Score: tiltak, tiltakene, liv, lei, bt, restriksjoner, frå, fram, visst, reglene, strenge, dugnad, debatt, berre, dagsavisen, veit, ille, meir, smitta, kor 
+ 
+ 	 Topic Kappa: drakoniske, diverre, fnb, forholdsmessigheten, rettferdiggjøre, inngripende, born, vald, utilsiktede, lovbrudd, dess, framstår, bananrepublikken, homofile, håndheve, splittende, forskarar, innsett, liv, iverksettes 
+ 	 Kappa with Baseline: tiltak, liv, tiltakene, restriksjoner, inngripende, strenge, innført, fortsette, fritt, ille, frå, meir, normalt, debatt, desse, restriksjonene, virket, dugnad 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: tiltak, liv, befolkningen, myndighetene, tiltakene, leve, redde, samfunnet, tenke, konsekvenser, restriksjoner, lockdown, faren, covid, inngripende, setter, strenge, normalt, innført, konsekvensene 
+ 	 	 Marginal FREX: konsekvenser, inngripende, skadelige, drepe, frykten, uskyldige, tenke, leve, ulovlig, friheten, aksepterer, liv, innføres, redde, befolkningen, fjerne, innført, tiltakene, normalt, strenge 
+ 	 	 Marginal Lift: makteliten, skadelige, dødsstraff, uskyldige, stråmenn, irrasjonelle, bekjempes, rettferdiggjøre, diktator, legitimere, tåpelige, plague, diktatoriske, fnb, drakoniske, totalitære, spesifisere, forutinntatt, kvasi, forholdsmessigheten 
+ 	 	 Marginal Score: tiltak, liv, befolkningen, tiltakene, myndighetene, leve, redde, konsekvenser, tenke, samfunnet, restriksjoner, inngripende, innført, faren, normalt, strenge, lockdown, frykten, konsekvensene, slippe 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: tiltak, tiltakene, liv, lei, bt, fram, restriksjoner, frå, visst, reglene, debatt, strenge, dugnad, veit, dagsavisen, smitta, ille, berre, meir, tida 
+ 	 	 Marginal FREX: berre, meir, kjem, sjølv, kor, sjå, frå, vera, sjuke, meiner, framleis, utan, charter, svein, betre, heime, strenge, vert, anna, halde 
+ 	 	 Marginal Lift: butikkar, attende, anten, alvorlege, inngripande, tippar, brot, aukar, allereie, amerikanarar, raude, byrja, byrjar, smittevernlova, løn, ikj, dødstala, naudsynt, innspel, låge 
+ 	 	 Marginal Score: tiltak, tiltakene, liv, lei, bt, fram, frå, restriksjoner, visst, reglene, strenge, debatt, dugnad, veit, berre, dagsavisen, ille, meir, smitta, tida 
+Topic 11: 
+ 	 Marginal Highest Prob: coronavirus, italia, tv2, forstå, respekt, redde, danmark, alvor, tvil, dk, vurderer, dele, grunner, dr, banen, løse, retningslinjer, skjønt, nemlig, planer 
+ 	 Marginal FREX: dk, dr, tv2, danske, conte, lombardia, posten, røde, dansk, kritikken, nettet, uefa, samfunnskritisk, fauci, barer, retningslinjer, avisen, dele, uheldig, bære 
+ 	 Marginal Lift: campania, zaia, fontana, veneto, nyheder, dpcm, jyllands, liguria, emilia, luca, frederiksen, toscana, respektfulle, politiken, infeksjonene, majeure, lazio, regionene, iss, genova 
+ 	 Marginal Score: coronavirus, italia, tv2, respekt, forstå, redde, danmark, alvor, dk, tvil, dele, vurderer, dr, grunner, banen, løse, retningslinjer, nemlig, planer, røde 
+ 
+ 	 Topic Kappa: gain, function, reiner, committee, skremme, fauci, check, dr, mengele, skremt, atferd, berettiget, mink, grunnlaget, katastrofen, information, ritzau, galskap, fremstiller, avisen 
+ 	 Kappa with Baseline: dr, tv2, skremme, fauci, galskap, nemlig, skremt, vurdert, grunnlaget, oppmerksomhet, respekt, dele, danmark, nettet, retningslinjer, pl, avisen, røde, dk, kritikken 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: leger, eksperter, dr, tv2, skremme, helsemyndigheter, legen, galskap, medisinske, fauci, hevde, smart, nemlig, vurdert, skremt, grunnlaget, jorden, respekt, avhengig, peter 
+ 	 	 Marginal FREX: leger, helsemyndigheter, dr, eksperter, peter, fauci, skremme, hevde, jorden, onde, medisinske, mccullough, skremt, function, gain, nazistene, ufattelig, galskap, grunnlaget, avisen 
+ 	 	 Marginal Lift: function, gain, innbille, mccullough, bieffektene, anthony_fauci, nazistene, sivilisert, eksperimenter, lord, reiner, panic, committee, uetiske, avlives, koding, peter, betrakter, anthony, fuellmich 
+ 	 	 Marginal Score: leger, eksperter, dr, skremme, helsemyndigheter, tv2, medisinske, fauci, galskap, legen, hevde, smart, nemlig, peter, skremt, jorden, grunnlaget, vurdert, onde, avhengig 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: coronavirus, italia, tv2, forstå, respekt, redde, danmark, alvor, tvil, dk, vurderer, dele, grunner, banen, løse, dr, skjønt, retningslinjer, planer, nemlig 
+ 	 	 Marginal FREX: dk, tv2, oppførsel, danske, italia, dr, lombardia, røde, respekt, posten, conte, bank, dansk, retningslinjer, nff, kritikken, cirka, nettet, dele, regionen 
+ 	 	 Marginal Lift: campania, zaia, fontana, veneto, nyheder, dpcm, jyllands, liguria, emilia, luca, frederiksen, toscana, respektfulle, politiken, infeksjonene, majeure, lazio, regionene, iss, genova 
+ 	 	 Marginal Score: coronavirus, italia, tv2, forstå, respekt, redde, danmark, alvor, dk, tvil, vurderer, dele, grunner, banen, dr, løse, retningslinjer, planer, nemlig, skjønt 
+Topic 12: 
+ 	 Marginal Highest Prob: døde, covid, influensa, langt, dør, dødsfall, ganger, tall, risiko, høyere, eldre, vaksinerte, uvaksinerte, tallene, per, prosent, sykdommer, død, færre, nesten 
+ 	 Marginal FREX: underliggende, andel, tallene, uvaksinerte, alder, vaksinerte, prosent, dødeligheten, dør, snitt, overdødelighet, alvorlige, risikoen, statistikken, innleggelse, dødstallene, yngre, høyere, sykdommer, diabetes 
+ 	 Marginal Lift: vaksinasjonsprog, insidensen, innleggelsesrate, 6x, overdødligheten, snittalderen, begravelsesbyråene, influensadødsfall, underdødelighet, rsv, intensivinnleggelser, halvkule, innb, iva, innleggelsestallene, differansen, bulletin, behandlingskapasitet, normalår, intensivavd 
+ 	 Marginal Score: døde, influensa, dør, langt, dødsfall, tall, ganger, covid, risiko, høyere, vaksinerte, eldre, uvaksinerte, tallene, per, prosent, sykdommer, færre, risikoen, dødd 
+ 
+ 	 Topic Kappa: myocarditt, alv, dødsårsak, fatality, narkolepsi, dødsattesten, biv, myokarditt, qaly, død, excess, assosiert, kawasaki, medianalderen, baseline, komorbiditeter, svangerskapet, ifr, karsykdommer, angir 
+ 	 Kappa with Baseline: dør, død, dødsfall, risiko, covid, vaksinerte, uvaksinerte, dø, alvorlige, risikoen, økt, tallene, sykdommer, eldre, høyere, dødd, underliggende, prosent, lav, svært 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: covid, dør, risiko, død, vaksinerte, dødsfall, uvaksinerte, dø, alvorlige, bivirkninger, risikoen, større, svært, sykdommer, eldre, tallene, liten, dødd, mennesker, langt 
+ 	 	 Marginal FREX: død, alvorlige, risiko, risikoen, dødsårsak, forløp, uvaksinerte, kreft, vaksinerte, underliggende, risk, myokarditt, nih, dør, alv, dødsfall, ifr, biv, ncbi, nlm 
+ 	 	 Marginal Lift: biv, preparatet, alv, massevax, risikoreduksjon, multi, mortem, overlevelses, injiserte, neglisjerbar, myocarditt, bivirkn, narkolepsi, hepatitt, inf, morbiditet, overhyppighet, ufødte, medik, endepunkt 
+ 	 	 Marginal Score: dør, risiko, død, vaksinerte, uvaksinerte, dødsfall, covid, dø, alvorlige, risikoen, bivirkninger, sykdommer, større, eldre, tallene, svært, dødd, liten, kreft, økt 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: døde, covid, influensa, langt, dør, dødsfall, ganger, tall, risiko, høyere, eldre, vaksinerte, tallene, uvaksinerte, per, prosent, sykdommer, færre, nesten, dødd 
+ 	 	 Marginal FREX: tall, influensa, eldre, sykdommer, tallene, underliggende, uvaksinerte, andel, dødeligheten, vaksinerte, prosent, alder, statistikken, døde, dør, snitt, dødstallene, overdødelighet, innleggelse, utgjør 
+ 	 	 Marginal Lift: vaksinasjonsprog, insidensen, innleggelsesrate, 6x, overdødligheten, snittalderen, begravelsesbyråene, influensadødsfall, underdødelighet, rsv, intensivinnleggelser, halvkule, innb, iva, innleggelsestallene, differansen, bulletin, behandlingskapasitet, normalår, intensivavd 
+ 	 	 Marginal Score: døde, influensa, dør, langt, tall, dødsfall, ganger, covid, risiko, høyere, eldre, vaksinerte, tallene, uvaksinerte, per, prosent, sykdommer, færre, dødd, tallet 
+Topic 13: 
+ 	 Marginal Highest Prob: com, norske, tro, skriver, lese, interessant, media, saken, stemmer, sak, artikkelen, spennende, skrevet, leger, lære, lest, forskere, myndigheter, legger, verdt 
+ 	 Marginal FREX: theguardian, youtube, nytimes, artikkel, new, artikler, innlegg, world, york, skrevet, washingtonpost, video, aviser, com, amerikansk, engelsk, us, medier, nature, gjennomgang 
+ 	 Marginal Lift: connectedcompanies, bærekraftighet, invst, fivethirtyeight, theblaze, bibliotekettarsaka, byline, nationalgeographic, skysports, tvvest, odinfond, geriatriks, abonnere, view, velskrevet, lærerike, simuleringer, idunn, ottawa, pelosi 
+ 	 Marginal Score: com, norske, tro, skriver, lese, interessant, media, saken, artikkelen, sak, skrevet, stemmer, lest, spennende, lære, leger, forskere, facebook, artikkel, myndigheter 
+ 
+ 	 Topic Kappa: study, least, welt, telenorsoc, four, yale, scientific, order, medicine, year, pandemic, ondsinnet, sensurere, medical, thegatewaypundit, sensurerer, windows, avslørt, fox, guvernør 
+ 	 Kappa with Baseline: com, youtube, news, new, pandemic, sannheten, artikkel, facebook, media, world, theguardian, nytimes, skrevet, lese, artikler, google, nature, york, medier, artikkelen 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: com, media, sannheten, youtube, lese, twitter, news, covid, new, artikkel, pandemic, løgn, propaganda, hevder, google, skrevet, bill_gates, artikkelen, nature, facebook 
+ 	 	 Marginal FREX: pandemic, world, youtube, avslørt, nature, new, sannheten, vaccine, artikler, york, bitchute, fox, people, us, nytimes, artikkel, say, løgnene, one, feilinformasjon 
+ 	 	 Marginal Lift: four, director, number, drug, least, many, blodfan, scientific, reports, telenorsoc, died, says, illuminati, pseudovitenskap, study, said, people, another, ayn, kill 
+ 	 	 Marginal Score: com, sannheten, media, youtube, news, new, pandemic, twitter, artikkel, lese, bill_gates, google, hevder, nature, løgn, world, propaganda, skrevet, vaccine, nytimes 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: com, norske, tro, skriver, lese, interessant, media, saken, stemmer, sak, artikkelen, spennende, leger, lest, lære, skrevet, forskere, myndigheter, legger, verdt 
+ 	 	 Marginal FREX: artikkelen, theguardian, google, youtube, nytimes, myndigheter, artikkel, new, amerikanske, artikler, stole, temaet, york, world, wordpress, washingtonpost, video, aviser, media, engelsk 
+ 	 	 Marginal Lift: connectedcompanies, bærekraftighet, invst, fivethirtyeight, theblaze, bibliotekettarsaka, byline, nationalgeographic, skysports, tvvest, odinfond, abonnere, geriatriks, view, velskrevet, lærerike, simuleringer, idunn, ottawa, pelosi 
+ 	 	 Marginal Score: com, norske, tro, skriver, lese, interessant, media, saken, artikkelen, stemmer, sak, lest, spennende, skrevet, lære, myndigheter, forskere, leger, kritisk, facebook 
+Topic 14: 
+ 	 Marginal Highest Prob: god, håper, bedre, dårlig, snart, greit, ønsker, virkelig, lett, riktig, vei, fort, morgen, begynner, føler, sammen, heldigvis, masse, tur, fin 
+ 	 Marginal FREX: bedring, krysser, fingrene, deilig, kos, klem, middag, spise, sunn, fisk, fornuft, sofaen, koselig, feire, <U+2600><U+FE0F>, kaffe, helg, slitsomt, bursdag, stemning 
+ 	 Marginal Lift: mornings, nikkei, dyna, betring, bedringens, tiner, godmorgen, sludd, frøs, bikkja, gåtur, knert, dyne, stekt, julemat, tomat, makrell, curry, kjeks, børste 
+ 	 Marginal Score: god, håper, dårlig, bedre, snart, greit, ønsker, lett, riktig, virkelig, fort, morgen, vei, føler, begynner, tur, heldigvis, bedring, fin, masse 
+ 
+ 	 Topic Kappa: fornuft, utrydder, sunn, pine, satan, urett, spy, fantasi, gretten, blaff, sitert, salig, bihulene, hytt, ånde, frekk, tullinger, uvitenhet, flokken, spruter 
+ 	 Kappa with Baseline: lett, riktig, dårlig, fornuft, god, fort, sunn, håper, sikkert, vei, dog, ønske, hodet, typisk, ide, glemme, sitter, fryktelig, tanken 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: samtidig, riktig, lett, lar, problemet, viktig, god, enkelte, måten, dårlig, forstår, høre, velger, sikkert, liker, menneske, fort, håper, eksisterer, dumt 
+ 	 	 Marginal FREX: sannhet, fornuft, hoax, oppegående, sunn, menneske, faktum, medikamenter, anbefale, oppfører, husker, biter, empati, liker, sorry, samtidig, glemme, velger, særdeles, sans 
+ 	 	 Marginal Lift: utrydder, falskhet, common, pengemakt, stupid, antivirale, orwell, hoax, pill, bond, legalisering, kvakksalveri, heroin, potent, sannhet, massesuggesjon, frimurermafiaen, sitert, konspirerer, cut 
+ 	 	 Marginal Score: samtidig, riktig, lett, lar, problemet, enkelte, måten, menneske, høre, velger, liker, fornuft, sannhet, dårlig, viktig, eksisterer, fort, dumt, god, husker 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: god, håper, bedre, snart, dårlig, greit, ønsker, virkelig, lett, riktig, morgen, vei, begynner, føler, fort, sammen, heldigvis, tur, masse, fin 
+ 	 	 Marginal FREX: bedring, spise, krysser, deilig, fingrene, kaffe, feire, kos, middag, huff, spiser, puste, mildt, hodet, ironi, smaker, klem, fisk, stemning, grader 
+ 	 	 Marginal Lift: mornings, nikkei, dyna, betring, bedringens, tiner, godmorgen, sludd, frøs, bikkja, gåtur, knert, dyne, stekt, julemat, tomat, makrell, curry, kjeks, børste 
+ 	 	 Marginal Score: god, håper, dårlig, snart, bedre, greit, ønsker, virkelig, lett, riktig, morgen, fort, føler, vei, begynner, tur, heldigvis, masse, fin, bedring 
+Topic 15: 
+ 	 Marginal Highest Prob: ny, aftenposten, livet, snakker, tv, tenk, endelig, snakke, lage, leder, hører, skjer, skrive, årets, skjedde, gleder, forteller, snakket, lært, lyst 
+ 	 Marginal FREX: episode, minutt, spotify, hør, podcast, tv, open, glede, erik, serie, podcasts, konsert, episoden, knut, petter, eurosport, dritt, aftenposten, sjef, konserter 
+ 	 Marginal Lift: pcast, oddspodden, almlid, <U+2B50><U+FE0F>, haugesunds, melodi, prix, camus, hø, beijing2022, artistene, knutsen, lode, weng, alexandra, felix, påmeldt, lørdagskvelden, moberg, glansen 
+ 	 Marginal Score: aftenposten, ny, livet, snakker, tv, tenk, endelig, snakke, lage, leder, skrive, årets, hører, gleder, forteller, skjedde, snakket, lyst, begynte, ol 
+ 
+ 	 Topic Kappa: liberaleren, hvara, borgermester, oppspinn, henning, human, orda, paranoia, ignorant, spotify, kloden, bedriver, ruspolitikk, knut, nicolai, oppstyret, planta, jævligste, shows, next 
+ 	 Kappa with Baseline: snakker, livet, aftenposten, tv, spotify, open, podcast, episode, bok, hør, dritt, kloden, serien, knut, podcasts, episoden, jan, sjef, petter 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: frykt, livet, snakker, største, aftenposten, konspirasjonsteorier, skaper, klima, bløff, tv, norges, ny, kampen, lei, 5g, konspirasjon, alvor, ukraina, covid, spotify 
+ 	 	 Marginal FREX: bløff, konspirasjonsteorier, konspirasjon, frykt, spotify, bullshit, boken, skaper, muslimer, svartedauden, innvandring, open, konspirasjonen, net, knut, joe_rogan, 5g, podcast, anerkjenner, podcasts 
+ 	 	 Marginal Lift: ignorant, tomprat, joe_rogan, bløff, konspirasjonen, quisling, kuppet, massemedia, oppspinn, human, wapo, pedofil, bilete, bedrevitere, liberaleren, konspirasjon, terroren, bedriver, kloden, hvara 
+ 	 	 Marginal Score: frykt, snakker, livet, største, konspirasjonsteorier, aftenposten, skaper, bløff, klima, tv, konspirasjon, norges, 5g, spotify, alvor, kampen, open, ukraina, kloden, lei 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: ny, aftenposten, livet, snakker, tenk, tv, endelig, snakke, lage, leder, hører, skjer, skrive, årets, skjedde, gleder, forteller, snakket, lært, lyst 
+ 	 	 Marginal FREX: tv, episode, minutt, hør, glede, spotify, podcast, open, apple, erik, serie, film, konsert, podcasts, musikk, filmen, bilder, episoden, prat, ole 
+ 	 	 Marginal Lift: pcast, oddspodden, almlid, <U+2B50><U+FE0F>, haugesunds, melodi, prix, camus, hø, beijing2022, artistene, knutsen, lode, weng, alexandra, felix, påmeldt, lørdagskvelden, moberg, glansen 
+ 	 	 Marginal Score: aftenposten, ny, livet, snakker, tv, tenk, endelig, snakke, lage, leder, skrive, hører, årets, gleder, skjedde, forteller, snakket, begynte, lyst, lært 
+Topic 16: 
+ 	 Marginal Highest Prob: antall, tiden, smittede, tilfeller, kilde, innlagte, fhi, sykehus, øker, helsedirektoratet, kraftig, endring, sykehusene, pasienter, økning, innlagt, status, meldte, kapasitet, personer 
+ 	 Marginal FREX: smittede, antall, tilfeller, meldte, antallet, diagnose, registrering, msis, prøvetakingsdato, tiden, nedgang, x, forsinkelse, innlagte, økende, dagers, intensivplasser, kapasiteten, telle, kapasitet 
+ 	 Marginal Lift: prøvetakingsdato, nyinnleggelser, liggedøgn, lovisenberggata, inneliggende, nysmittede, trutt, koronakartet, flatet, senger, innlegges, mikrogram, utflating, intensivavdelingene, icpc, bikket, kapasitetsproblemer, landsbasis, sykemeldte, forsinkelse 
+ 	 Marginal Score: antall, tiden, smittede, tilfeller, innlagte, kilde, sykehus, fhi, helsedirektoratet, øker, endring, sykehusene, kraftig, meldte, økning, kapasitet, status, antallet, innlagt, pasienter 
+ 
+ 	 Topic Kappa: diagnostiserte, påviste, statistikker, kormod, telle, ventilator, aksen, eksponentiell, x, kunnskapsbasert, innleggelser, tilfeller, smittende, vekst, y, overstiger, lineær, fremme, laveste, synke 
+ 	 Kappa with Baseline: antall, tilfeller, smittede, tiden, x, innleggelser, antallet, vekst, øke, diagnose, smittetilfeller, økende, telle, registrerte, endring, dagers, påviste, bekreftede, fremme 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: tall, antall, tilfeller, smittede, tiden, stort, tallet, per, endret, definisjonen, begrenset, x, ordet, ukjent, nødvendigvis, fremover, antallet, øke, pasient, teller 
+ 	 	 Marginal FREX: definisjonen, tallet, nødvendigvis, teller, ukjent, antall, begrenset, stort, underrapportering, tall, pasient, grafen, x, tilfeller, graf, tilfellene, mørketall, fremstilling, rapporterte, cfr 
+ 	 	 Marginal Lift: allmennfarlige, definisjonen, fil, fremstilling, tankesett, alert, nøyaktige, statistikker, underrapportering, påviste, synonymt, level, diagnostiserte, immunologiske, sporings, cfr, adekvat, epidemiene, rapporterte, giver 
+ 	 	 Marginal Score: tall, antall, tilfeller, smittede, stort, tiden, tallet, definisjonen, endret, per, begrenset, x, ukjent, nødvendigvis, ordet, fremover, antallet, pasient, teller, øke 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: antall, tiden, smittede, tilfeller, kilde, innlagte, fhi, sykehus, øker, helsedirektoratet, kraftig, endring, sykehusene, pasienter, økning, innlagt, status, kapasitet, meldte, personer 
+ 	 	 Marginal FREX: tilfeller, smittede, innlagte, meldte, helsedirektoratet, antall, antallet, tiden, diagnose, registrering, msis, dagers, nedgang, x, prøvetakingsdato, registrerte, forsinkelse, økende, økning, øker 
+ 	 	 Marginal Lift: prøvetakingsdato, nyinnleggelser, liggedøgn, lovisenberggata, inneliggende, nysmittede, trutt, koronakartet, flatet, senger, innlegges, mikrogram, utflating, intensivavdelingene, icpc, bikket, kapasitetsproblemer, landsbasis, sykemeldte, holdenutvalget 
+ 	 	 Marginal Score: antall, tiden, smittede, tilfeller, innlagte, kilde, sykehus, øker, helsedirektoratet, fhi, endring, sykehusene, kraftig, økning, meldte, kapasitet, status, pasienter, innlagt, antallet 
+Topic 17: 
+ 	 Marginal Highest Prob: ta, vaksine, vaksinen, vaksiner, vaksinene, vaksinering, covid, gt, vaksinere, bivirkninger, velger, fungerer, sikre, hensyn, doser, imot, medisin, tilgang, mangel, pfizer 
+ 	 Marginal FREX: vaksinene, vaksiner, medisiner, mrna, moderna, rettferdig, trygge, fordeling, legemidler, produsere, effektive, vaksinere, trygg, tilgang, medisin, influensavaksine, køen, vaksinerer, utstyr, covax 
+ 	 Marginal Lift: cepis, vaksinesamarbeidet, produksjonskapasiteten, farmasøyter, anskaffelse, oppveier, <U+0001F167><U+200D><U+2640><U+FE0F>, vaksinerdeg, pillene, prioriteringslisten, leverandørene, fullføres, livsforlengende, vaksinerings, respiratoren, skulderen, anskaffe, underkapasitet, skeiv, sanitære 
+ 	 Marginal Score: ta, vaksine, vaksinen, vaksiner, vaksinene, vaksinering, gt, vaksinere, bivirkninger, velger, fungerer, hensyn, sikre, doser, medisin, tilgang, pfizer, imot, mangel, medisiner 
+ 
+ 	 Topic Kappa: mrna, langtidsbivirkninger, eksperimentell, betalingsevne, eksperimentelle, patentfritak, vaksineprodusenter, genterapi, saksynt, patentet, patent, legemiddelselskaper, polio, patenter, big_pharma, vaksinene, patenten, legemidler, prøvekaniner, sprøytene 
+ 	 Kappa with Baseline: vaksiner, vaksinene, covid, mrna, bivirkninger, ta, vaksinere, medisiner, vaksine, medisin, effektive, trygg, legemidler, godkjent, nekter, pfizer, fungerer, teknologi, produsere, trygge 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: vaksiner, covid, ta, vaksinene, bivirkninger, finnes, vaksine, vaksinere, behandling, ivermectin, mrna, medisin, medisiner, virker, farlige, fungerer, nekter, ansvar, pfizer, godkjent 
+ 	 	 Marginal FREX: ivermectin, mrna, vaksinene, vaksiner, legemidler, eksperimentell, medisiner, effektive, godkjent, polio, trygg, patent, eksperimentelle, hcq, produsere, behandling, legemiddelverket, massevaksinering, tjomlid, overveldende 
+ 	 	 Marginal Lift: saksynt, patentene, difteri, oppfant, big_pharma, langtidsbivirkninger, kjempefarlig, pyser, faktasjekket, bloggpost, parasitter, undertrykker, vaksineprodusenter, patentfritak, patent, rusmidler, eksperimentell, ineffektive, viagra, patentet 
+ 	 	 Marginal Score: vaksiner, vaksinene, ta, bivirkninger, ivermectin, vaksinere, covid, mrna, behandling, medisin, medisiner, finnes, vaksine, godkjent, farlige, effektive, legemiddelverket, nekter, trygg, pfizer 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: ta, vaksine, vaksinen, vaksiner, vaksinene, vaksinering, gt, covid, velger, vaksinere, bivirkninger, fungerer, hensyn, sikre, doser, imot, tilgang, medisin, mangel, pfizer 
+ 	 	 Marginal FREX: vaksine, pfizer, vaksinering, vaksiner, vaksinene, medisin, medisiner, moderna, effektiv, az, vaksinen, rettferdig, mrna, fordeling, utvikle, skeptisk, koronavaksine, trygge, doser, nytte 
+ 	 	 Marginal Lift: cepis, vaksinesamarbeidet, produksjonskapasiteten, farmasøyter, anskaffelse, oppveier, <U+0001F167><U+200D><U+2640><U+FE0F>, vaksinerdeg, pillene, prioriteringslisten, leverandørene, fullføres, livsforlengende, vaksinerings, respiratoren, skulderen, anskaffe, underkapasitet, skeiv, sanitære 
+ 	 	 Marginal Score: ta, vaksine, vaksinen, vaksiner, vaksinene, vaksinering, gt, vaksinere, velger, bivirkninger, hensyn, fungerer, sikre, doser, imot, medisin, tilgang, pfizer, mangel, tilgjengelig 
+Topic 18: 
+ 	 Marginal Highest Prob: norge, verden, land, koronavirus, sverige, landet, kina, nyheter, reise, mens, nordmenn, resten, verdens, dn, rammet, største, hardt, msn, reiser, vårt 
+ 	 Marginal FREX: afrika, landene, fattige, land, brasil, s24, india, extraavisen, verdens, verden, korea, norge, vestlige, resten, vesten, spania, herjer, reist, asia, filternyheter 
+ 	 Marginal Lift: primaregnskap, revisorforum1, tvangsmulkt, s24, extraavisen, csángó, péter, coronaveckan, utenriksdepartementet, koreas, bjørnestad, salet, annerledeslandet, flyktningleir, skytteltrafikk, befolkede, grensehandelen, migrantene, tirol, makedonia 
+ 	 Marginal Score: norge, land, verden, sverige, koronavirus, landet, kina, nyheter, reise, verdens, resten, nordmenn, rammet, dn, største, mens, hardt, msn, reiser, norges 
+ 
+ 	 Topic Kappa: africa, befolknings, rike, wet, globalister, fattige, overbefolkning, syria, rikeste, donere, gaza, g20, indias, libya, utviklede, vestlige, helvetet, np, sult, tedros 
+ 	 Kappa with Baseline: land, verden, norge, verdens, rike, befolkning, fattige, mens, lever, resten, landene, landet, afrika, sør, katastrofe, millioner, india, rikeste, vesten, nordmenn 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: norge, verden, land, verdens, landet, millioner, mennesker, befolkning, mens, lever, trenger, menneskeheten, resten, fattige, rike, fn, nordmenn, israel, covid, milliarder 
+ 	 	 Marginal FREX: befolkning, menneskeheten, fattige, millioner, rike, malaria, helseorganisasjon, amerikanerne, verdens, vestlige, land, sult, katastrofe, vesten, afrika, edition, state, wto, landene, trips 
+ 	 	 Marginal Lift: jødisk, felleskatalogen, artritt, plaquenil, riksavisen, palestinerne, menneskeheten, fredjohs, israels, africa, befolknings, krigs, nasjonalister, billion, kommunistiske, trips, utviklede, globalister, wto, state 
+ 	 	 Marginal Score: verden, land, norge, verdens, millioner, befolkning, lever, landet, menneskeheten, mens, fattige, rike, resten, fn, mennesker, israel, landene, globalt, milliarder, trenger 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: norge, land, verden, koronavirus, sverige, landet, kina, nyheter, reise, mens, nordmenn, resten, verdens, dn, rammet, største, hardt, msn, reiser, vårt 
+ 	 	 Marginal FREX: abcnyheter, landet, afrika, sverige, land, landene, grenser, korea, brasil, fattige, india, s24, coronavirusnorge, svenske, amerika, hardest, rammet, abc, verdens, extraavisen 
+ 	 	 Marginal Lift: primaregnskap, revisorforum1, tvangsmulkt, s24, extraavisen, csángó, péter, coronaveckan, utenriksdepartementet, koreas, bjørnestad, salet, annerledeslandet, flyktningleir, skytteltrafikk, befolkede, grensehandelen, migrantene, tirol, makedonia 
+ 	 	 Marginal Score: norge, land, verden, sverige, landet, koronavirus, kina, nyheter, reise, resten, nordmenn, verdens, rammet, dn, største, hardt, msn, mens, reiser, spania 
+Topic 19: 
+ 	 Marginal Highest Prob: pandemi, neste, midt, møte, hjemmekontor, post, jobbe, global, mulighet, møter, gratis, studenter, fysisk, viktig, åpent, høsten, utfordringer, professor, påvirker, korona_pandemien 
+ 	 Marginal FREX: uio, midt, digitalt, uib, zoom, hjemmefra, bøker, oslomet, kurs, digitalisering, campus, studenter, arrangere, pandemi, pågående, verdensomspennende, avlyse, studentene, forelesninger, arrangerer 
+ 	 Marginal Lift: nifu, unioslo, undervisere, canvas, campus, thenewcompany, forelesere, høgskoler, forelesningene, teknologiradet, forelesninger, digitalundervisning, hjemmeeksamen, gruppearbeid, semester, høyskoler, stud, røttingen, norgesarktiske, panelsamtale 
+ 	 Marginal Score: pandemi, neste, midt, hjemmekontor, møte, post, global, jobbe, studenter, gratis, mulighet, møter, fysisk, åpent, professor, høsten, utfordringer, korona_pandemien, uio, løsninger 
+ 
+ 	 Topic Kappa: verdensomspennende, titan, gevinster, mn, professorer, naturvitenskapelige, pågående, grunnforskning, interaksjon, måter, korsvei, foreleser, institutt, professor, matematisk, cv, adressere, global, apollon, uio 
+ 	 Kappa with Baseline: pandemi, global, midt, professor, måter, vårt, neste, uio, pågående, verdensomspennende, påvirket, arbeid, pågår, oppleve, utvalg, uib, bidra, glemt 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: pandemi, pandemien, forskere, global, stoppe, tenk, vårt, neste, professor, midt, måter, reagerer, jobber, liksom, bidra, håndtere, covid, pågående, fins, uio 
+ 	 	 Marginal FREX: forskere, verdensomspennende, vårt, reagerer, fins, klimaendringer, fornekter, måter, ødelegge, retorikk, pågående, pandemien, fagfolk, uio, håndtere, professor, cv, liksom, tenk, forståelsen 
+ 	 	 Marginal Lift: onlinelibrary, wiley, reinspikka, titan, noah, smittevernbyrået, motarbeide, junk, lisensen, smitteverntiltaka, likegyldighet, verdensomspennende, mn, fastslår, destruktive, fornekter, fins, professorer, cv, forskere 
+ 	 	 Marginal Score: pandemi, pandemien, forskere, global, stoppe, vårt, tenk, professor, måter, neste, reagerer, midt, håndtere, liksom, fins, pågående, uio, fagfolk, verdensomspennende, ødelegge 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: pandemi, neste, midt, møte, hjemmekontor, post, jobbe, global, mulighet, møter, gratis, studenter, fysisk, viktig, åpent, høsten, utfordringer, korona_pandemien, påvirker, sosiale 
+ 	 	 Marginal FREX: midt, global, uio, digitale, digitalt, studenter, kurs, hjemmefra, digital, webinar, khrono, bøker, uib, ntnu, pandemi, konferanse, zoom, oppi, pågående, uit 
+ 	 	 Marginal Lift: nifu, unioslo, undervisere, canvas, campus, thenewcompany, forelesere, høgskoler, forelesningene, teknologiradet, forelesninger, digitalundervisning, hjemmeeksamen, gruppearbeid, semester, høyskoler, stud, røttingen, norgesarktiske, panelsamtale 
+ 	 	 Marginal Score: pandemi, neste, midt, møte, hjemmekontor, post, jobbe, global, mulighet, gratis, studenter, møter, fysisk, åpent, høsten, korona_pandemien, utfordringer, påvirker, løsninger, sosiale 
+Topic 20: 
+ 	 Marginal Highest Prob: nrk, dlvr, direkte, helse, nytt, nrknyheterrss, psykisk, ift, pluss, nrkdistriktsisterss, tt, forsiden, nrkdistrikttoppsakerrss, smittet, nrknyhetertoppsakerforsidenrss, radio, adressa, innenriks, viken, stigma 
+ 	 Marginal FREX: nrkdistriktsisterss, nrkdistrikttoppsakerrss, stigma, fighting, nrkinnenrikstoppsakerrss, vegårshei, nrknyheterrss, psykiske, nrknyhetersisterss, psykisk, fjordane, hordaland, koronasmittet, nrknyhetertoppsakerforsidenrss, nrkutenrikstoppsakerrss, nordland, utenriks, nrkdistrikttoppsakersognogfjordanerss, nrkdistrikttoppsakerfinnmarkrss, nrkdistrikttoppsakerhordalandrss 
+ 	 Marginal Lift: nrkdistriktsistesognogfjordanerss, nrkdistriktsistemoreogromsdalrss, nrkdistrikttoppsakersognogfjordanerss, nrkdistriktsisterogalandrss, nrkdistriktsistetromsrss, nrkdistriktsisteinnlandetrss, nrkdistriktfinnmarksisterss, nrkdistrikttoppsakerhordalandrss, nrkdistrikttoppsakermoreogromsdalrss, nrkdistriktsistevestfoldogtelemarkrss, nrkvestfold, nrkdistrikttoppsakerrogalandrss, nrkutenrikstoppsakerrss, nrkdistrikttoppsakertromsrss, nrkdistriktsisterss, nrkdistrikttoppsakerinnlandetrss, fjordane, nrkdistrikttoppsakersorlandetrss, nrkinnenrikstoppsakerrss, nrkkulturrss 
+ 	 Marginal Score: dlvr, nrk, direkte, helse, nytt, nrknyheterrss, psykisk, ift, pluss, nrkdistriktsisterss, tt, forsiden, nrkdistrikttoppsakerrss, nrknyhetertoppsakerforsidenrss, radio, adressa, innenriks, stigma, nrkinnenrikstoppsakerrss, psykiske 
+ 
+ 	 Topic Kappa: lidelser, nyfødte, mors, johnny, koronatilfeller, corona_vaksine, subtile, covid—19, iransk, tenåringer, svindle, avdekket, uhelse, sørafrikansk, koronadøde, helseplager, millionene, indirekte, babyen, opplyser 
+ 	 Kappa with Baseline: nrk, smittet, helse, lidelser, corona_vaksine, psykisk, psykiske, stigma, bekrefter, avdekket, opplyser, dlvr, koronasmitte, kvinne, fighting, indirekte, meldt, meldinger 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: døde, smittet, nrk, én, helse, måneder, mann, færre, mannen, påstå, senere, gammel, italia, lidelser, viktigere, bekrefter, million, covid, påvirke, korona_vaksine 
+ 	 	 Marginal FREX: døde, påstå, smittet, mann, mannen, lidelser, iran, gammel, corona_vaksine, kvinne, én, færre, senere, korona_vaksine, avdekket, dødsfallet, måneder, overlevde, milliard, skurk 
+ 	 	 Marginal Lift: legitimerer, skurk, bigpharma, katolske, regimets, terrorist, påstå, lidelser, mors, johnny, nyfødte, jamfør, subtile, tilskrives, omkommet, tenåringer, corona_vaksine, iransk, svindle, covid—19 
+ 	 	 Marginal Score: døde, smittet, nrk, én, mann, måneder, helse, mannen, færre, påstå, senere, gammel, lidelser, italia, bekrefter, viktigere, kvinne, korona_vaksine, iran, corona_vaksine 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: dlvr, nrk, direkte, helse, nytt, nrknyheterrss, psykisk, ift, pluss, nrkdistriktsisterss, tt, forsiden, nrkdistrikttoppsakerrss, nrknyhetertoppsakerforsidenrss, radio, adressa, innenriks, viken, nrkinnenrikstoppsakerrss, stigma 
+ 	 	 Marginal FREX: psykisk, tt, nrkdistriktsisterss, stigma, dlvr, fighting, nrkdistrikttoppsakerrss, psykiske, haugaland, nrkinnenrikstoppsakerrss, vegårshei, nrknyheterrss, nrknyhetertoppsakerforsidenrss, forsiden, nrknyhetersisterss, koronasmittet, radio, fjordane, io, møre 
+ 	 	 Marginal Lift: nrkdistriktsistesognogfjordanerss, nrkdistriktsistemoreogromsdalrss, nrkdistrikttoppsakersognogfjordanerss, nrkdistriktsisterogalandrss, nrkdistriktsistetromsrss, nrkdistriktsisteinnlandetrss, nrkdistriktfinnmarksisterss, nrkdistrikttoppsakerhordalandrss, nrkdistrikttoppsakermoreogromsdalrss, nrkdistriktsistevestfoldogtelemarkrss, nrkvestfold, nrkdistrikttoppsakerrogalandrss, nrkutenrikstoppsakerrss, nrkdistrikttoppsakertromsrss, nrkdistriktsisterss, nrkdistrikttoppsakerinnlandetrss, fjordane, nrkdistrikttoppsakersorlandetrss, nrkinnenrikstoppsakerrss, nrkkulturrss 
+ 	 	 Marginal Score: dlvr, nrk, direkte, helse, nytt, nrknyheterrss, psykisk, ift, pluss, nrkdistriktsisterss, tt, forsiden, nrkdistrikttoppsakerrss, nrknyhetertoppsakerforsidenrss, radio, adressa, innenriks, stigma, nrkinnenrikstoppsakerrss, viken 
+Topic 21: 
+ 	 Marginal Highest Prob: rett, forstår, dessverre, myndighetene, handler, uk, poenget, ansvar, politisk, null, stille, valg, co, poeng, politikere, erna, høyre, politikk, egne, strategi 
+ 	 Marginal FREX: uk, co, politisk, bla, mene, bbc, zero_covid, fremstår, jada, begrepet, venstre, kritikk, tør, grep, våkne, høyre, fokus, tøffe, standard, erna 
+ 	 Marginal Lift: aldrimer12mars, mirror, pandemiplan2014, huseier, smk, hæla, pragmatiske, lederskapet, hanske, poengtert, veivalg, formildende, ufine, co, forberedelser, håndverk, aus, education, mt, kjeftet 
+ 	 Marginal Score: rett, uk, forstår, myndighetene, dessverre, handler, poenget, ansvar, politisk, co, stille, erna, politikere, høyre, null, valg, poeng, politikk, strategi, egne 
+ 
+ 	 Topic Kappa: bbc, begrepet, dailyexpose, thesun, zero_covid, imperial, assets, avfeie, latterliggjort, dystopisk, menneskeliv, independent, telegraph, uk, dailymail, college, avsløre, dets, bla, fremstår 
+ 	 Kappa with Baseline: uk, co, politisk, bbc, bla, begrepet, fremstår, zero_covid, britiske, mene, våkne, menneskeliv, tør, realiteten, gov, independent, grep, telegraph, sette 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: uk, politisk, co, bbc, side, begrepet, bla, reuters, menneskeliv, fremstår, sverige, britiske, våkne, svenske, brukte, zero_covid, mene, tilstander, tør, covid 
+ 	 	 Marginal FREX: bbc, begrepet, metoder, co, reuters, uk, britiske, forakt, bla, zero_covid, cases, bias, individer, flokk, fremstår, politisk, epidemiologer, passer, uenige, våkne 
+ 	 	 Marginal Lift: definisjonsmakten, hominem, psykopat, confirmation, løgnpropaganda, bbc, forakt, doctor, alarmist, dikterer, cases, dystopisk, goes, begrepet, deaths, japantimes, gates, folkemord, dødsvirus, publishing 
+ 	 	 Marginal Score: uk, politisk, co, bbc, begrepet, reuters, bla, side, menneskeliv, britiske, fremstår, våkne, zero_covid, svenske, mene, tilstander, metoder, gates, sverige, tør 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: rett, forstår, dessverre, myndighetene, handler, poenget, ansvar, uk, null, stille, valg, politikere, poeng, erna, høyre, politisk, politikk, egne, co, strategi 
+ 	 	 Marginal FREX: uk, erna, co, strategi, forstår, kritikk, høyre, politisk, politiske, gov, regjering, egne, ansvar, hånd, mene, tillit, bla, rett, kritiserer, myndighetene 
+ 	 	 Marginal Lift: aldrimer12mars, mirror, pandemiplan2014, huseier, smk, hæla, pragmatiske, lederskapet, hanske, poengtert, veivalg, formildende, ufine, forberedelser, håndverk, aus, education, mt, kjeftet, <U+0001F160><U+200D><U+2642><U+FE0F> 
+ 	 	 Marginal Score: rett, forstår, myndighetene, dessverre, handler, uk, ansvar, poenget, erna, stille, null, valg, politikere, høyre, politisk, co, poeng, egne, strategi, politikk 
+Topic 22: 
+ 	 Marginal Highest Prob: lenge, allerede, uker, lov, eu, europa, dose, måneder, befolkningen, kort, tidlig, vente, tide, ennå, mnd, pass, startet, folket, starten, sommeren 
+ 	 Marginal FREX: pass, kaos, vaksinepass, nummer, vaksinedose, putin, dose, eøs, russland, avtale, passet, avtalen, noregnorge, godkjenning, borgere, eus, anti, motstand, europa, mittportugal 
+ 	 Marginal Lift: 2021–2022, 2020–2021, fylkesnemnda, prosessregelverket, introduksjonsloven, årsregnskap, saksopplysninger, sanksjon, forskriftshjemmel, foretakslovgivningen, fristene, mittportugal, rekonstruksjon, draghi, lefigaro, haag, covidpass, intervall, orbán, coronapasset 
+ 	 Marginal Score: lenge, allerede, uker, lov, eu, europa, dose, måneder, befolkningen, tidlig, vente, kort, mnd, ennå, pass, tide, folket, startet, kaos, sommeren 
+ 
+ 	 Topic Kappa: vaxxers, leyen, ursula, anti, hentesmitte, benektere, borgere, credit, fda, noregnorge, stem, ekstreme, stemplet, emergency, dødsvirusåret2020, eus, tåkepreik, agency, eliter, tvangsvaksinering 
+ 	 Kappa with Baseline: dose, eu, anti, kaos, pass, europa, borgere, ekstreme, krav, vaksinepass, covid, noregnorge, ennå, full, eøs, russland, putin, fda, sitat, eus 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: norske, dose, eu, doser, anti, covid, steigan, kaos, ennå, europa, åpne, borgere, vaksinering, pass, full, ekstreme, ønsker, såkalt, vaksinepass, fda 
+ 	 	 Marginal FREX: anti, doser, borgere, kaos, ekstreme, dose, noregnorge, fornuften22, wordpress, vaxxers, fda, eus, eøs, livsfarlig, booster, såkalt, ideologi, ekstrem, avtalen, feilslått 
+ 	 	 Marginal Lift: vaxxers, massedrap, emergency, sinnssyke, narko, dødsviruset, elitene, hentesmitte, skamplett, leyen, fanatiske, stemplet, anti, lovstridig, somle, tåkepreik, ursula, foreldet, klimahysteriet, oppgjørets 
+ 	 	 Marginal Score: dose, norske, doser, eu, anti, kaos, borgere, steigan, ekstreme, pass, europa, ennå, åpne, såkalt, vaksinering, vaksinepass, fda, sitat, full, noregnorge 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: lenge, allerede, uker, lov, europa, eu, måneder, dose, befolkningen, tidlig, kort, vente, tide, ennå, mnd, pass, startet, folket, starten, sommeren 
+ 	 	 Marginal FREX: eu, pass, kaos, folket, israel, vaksinepass, vaksineringen, vaksinedose, nummer, ukraina, putin, russland, passet, loven, motstand, eøs, straks, vaksinedoser, avtalen, godkjenning 
+ 	 	 Marginal Lift: 2021–2022, 2020–2021, fylkesnemnda, prosessregelverket, introduksjonsloven, årsregnskap, saksopplysninger, sanksjon, forskriftshjemmel, foretakslovgivningen, fristene, mittportugal, rekonstruksjon, draghi, lefigaro, haag, covidpass, intervall, orbán, coronapasset 
+ 	 	 Marginal Score: lenge, allerede, uker, lov, eu, europa, dose, måneder, befolkningen, tidlig, kort, vente, mnd, ennå, tide, pass, startet, folket, starten, kaos 
+Topic 23: 
+ 	 Marginal Highest Prob: barn, jobb, hjemme, unge, hjem, stengt, barna, skoler, skole, skolen, nivå, voksne, lærere, veien, bekymret, hold, små, familie, venner, familien 
+ 	 Marginal FREX: skolen, barna, barn, foreldre, barnehage, lærere, foreldrene, hjemmeskole, videregående, voksne, barnehagen, barnehager, ungdom, pappa, unge, barns, barnehagene, ungdommer, mor, bhg 
+ 	 Marginal Lift: bedreskole, søndagsgudstjeneste, onsdagsgudstjeneste, skolenorge, ifttt, profeterte, aks, barneskolene, forkynner, barnehagelærere, gresshoppeplagen, handal, goo, lærerrommet, grunnskole, utdanningsdirektoratet, ungdomsskoler, bbolstad, skolenes, klassene 
+ 	 Marginal Score: barn, jobb, hjemme, unge, hjem, stengt, barna, skoler, skolen, skole, voksne, nivå, lærere, bekymret, hold, veien, små, familie, foreldre, venner 
+ 
+ 	 Topic Kappa: jesu, overgrep, religiøs, seksuelle, svada, barn, krisepsykologi, unge, barns, voksne, children, bestefar, school, far, barnelege, engh, ungdommer, hen, livets, barna 
+ 	 Kappa with Baseline: barn, unge, barna, voksne, foreldre, ungdom, far, mor, overgrep, hen, ungdommer, barns, gamle, foreldrene, skolen, prioritere, bekymrer, familier 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: barn, syke, unge, friske, gt, menn, voksne, barna, nettavisen, kvinner, utsatt, gamle, rammer, gruppe, vaksineres, foreldre, ungdom, ekstremt, rammet, far 
+ 	 	 Marginal FREX: barn, menn, rammer, gt, kvinner, unge, vaksineres, syke, barna, voksne, gruppe, overgrep, sjeldent, barns, friske, rammes, far, ungdom, foreldre, tåler 
+ 	 	 Marginal Lift: children, assosierer, begår, overgripere, pushes, pfu, jesu, aliens, svada, tilbakeholden, religiøs, seksuelle, hoc, oppdragelse, school, hjernedød, ayatollah, foreldres, vaksineres, overgrep 
+ 	 	 Marginal Score: barn, syke, unge, friske, menn, gt, voksne, barna, kvinner, nettavisen, rammer, vaksineres, gruppe, utsatt, gamle, foreldre, ungdom, far, tåler, sykt 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: barn, jobb, hjemme, unge, hjem, stengt, skoler, barna, skole, skolen, nivå, voksne, lærere, veien, bekymret, hold, små, familie, venner, familien 
+ 	 	 Marginal FREX: skolen, barn, barna, lærere, foreldre, elevene, voksne, hjemmeskole, barnehage, barnehagen, ungene, ungdom, foreldrene, mor, barnehager, unge, barnet, unger, ungdommer, videregående 
+ 	 	 Marginal Lift: bedreskole, søndagsgudstjeneste, onsdagsgudstjeneste, skolenorge, ifttt, profeterte, aks, barneskolene, forkynner, barnehagelærere, gresshoppeplagen, handal, goo, lærerrommet, grunnskole, utdanningsdirektoratet, ungdomsskoler, bbolstad, skolenes, klassene 
+ 	 	 Marginal Score: barn, jobb, hjemme, unge, hjem, stengt, barna, skoler, skolen, skole, nivå, voksne, lærere, bekymret, hold, veien, familie, små, venner, familien 
+Topic 24: 
+ 	 Marginal Highest Prob: smittet, karantene, dager, testet, test, personer, positivt, minst, symptomer, tester, person, én, teste, positive, par, positiv, testing, isolasjon, tok, timer 
+ 	 Marginal FREX: test, tester, positivt, testen, positive, positiv, pcr, testene, nærkontakt, symptomer, negativ, testing, defineres, person, laboratoriedata, testes, epidemiens, gardermoen, milde, stk 
+ 	 Marginal Lift: laboratoriedata, nossum, myhr, ugifte, covidtest, berisha, 2tdf, hjemmeisolasjon, testkriterier, avla, oversiktelig, koronatesten, prøvesvaret, atypiske, smittesporer, selvtest, 2g, 2sykkel, testens, veton 
+ 	 Marginal Score: smittet, karantene, dager, testet, test, positivt, personer, symptomer, minst, tester, person, positive, én, teste, positiv, par, testing, isolasjon, negativ, timer 
+ 
+ 	 Topic Kappa: pcr, positiver, symptomatiske, diagnostisere, falsk, ct, falske, svelget, testene, antistoff, serologi, diagnostiske, sykluser, sensitiviteten, asymptomatiske, kits, dokumenteres, kriteriene, hvilkentest, testen 
+ 	 Kappa with Baseline: personer, pcr, test, symptomer, tester, minst, testen, person, falske, falsk, testene, testing, positive, positiv, covid, milde, resultat, positivt, negativ, teste 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: brukes, personer, pcr, symptomer, test, minst, person, covid, tester, falske, falsk, smittsom, testen, testing, positive, testene, positiv, nylig, isolert, slår 
+ 	 	 Marginal FREX: pcr, brukes, testene, falske, falsk, testen, skille, verdi, ubrukelig, påvise, isolert, levende, regnes, personer, asymptomatiske, definerer, oppfinneren, milde, nylig, antistoff 
+ 	 	 Marginal Lift: diagnosere, mullis, numbers, detektere, oppfinneren, analysis, diagnostisere, sykluser, dna, symptomatiske, false, fremviser, emeritus, pcr, serologi, upålitelig, svelget, prediktiv, ct, påvise 
+ 	 	 Marginal Score: brukes, pcr, personer, symptomer, test, minst, falske, falsk, person, tester, testen, smittsom, testene, testing, positive, positiv, isolert, nylig, milde, dna 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: smittet, karantene, dager, testet, test, positivt, personer, minst, symptomer, tester, én, person, teste, par, positive, positiv, testing, isolasjon, tok, timer 
+ 	 	 Marginal FREX: test, positivt, tester, symptomer, positive, positiv, testen, person, testes, negativ, testing, nærkontakt, pcr, innreise, hurtigtest, testene, defineres, negative, forkjølet, epidemiens 
+ 	 	 Marginal Lift: laboratoriedata, nossum, myhr, ugifte, covidtest, berisha, 2tdf, hjemmeisolasjon, testkriterier, avla, oversiktelig, koronatesten, prøvesvaret, smittesporer, selvtest, atypiske, 2g, 2sykkel, testens, veton 
+ 	 	 Marginal Score: smittet, karantene, dager, testet, test, positivt, symptomer, personer, minst, tester, én, person, positive, teste, par, positiv, testing, isolasjon, timer, negativ 
+Topic 25: 
+ 	 Marginal Highest Prob: covid19, norsk, gjelder, ly, dagens, smittevern, bit, situasjon, lokale, unntak, avdeling, forskrift, forskriften, lovtidend, smitteverntiltak, kunngjøringsbolk, link, forskrifter, koronavirus, midlertidig 
+ 	 Marginal FREX: bit, ly, forskrift, forskriften, forskrifter, kunngjøringsbolk, ow, regionale, aktuell, covid19forskriften, lovtidend, smittevernforskrifter, buff, avdeling, smittevernloven, dagens, hjemmel, endringsforskrift, situasjon, bolken 
+ 	 Marginal Lift: covid19forskriften, cereal, americanairlines, bolken, nittedalkommune, solakommune, vestbykommune, kjøtteksport, soyabønne, donmario, mustangseeds, argentinsk, smittevernforskrift, økonomiposten, landlisten, kunngjøringsbolk, plantingsplanene, smittevernforskrifter, eksportbarrierer, grain 
+ 	 Marginal Score: covid19, norsk, gjelder, ly, dagens, bit, smittevern, situasjon, lokale, unntak, avdeling, forskrift, forskriften, lovtidend, forskrifter, kunngjøringsbolk, smitteverntiltak, link, midlertidig, regionale 
+ 
+ 	 Topic Kappa: emk, qoo, phishing, biotech, hjemmel, redaktørforening, 4a, vedtatt, jf, motvirke, opphevelse, unntaket, smvl, ikrafttredelse, ledd, bokstav, smittevernloven, ipsos, vedta, opphevet 
+ 	 Kappa with Baseline: dagens, ly, situasjon, endringer, bit, smittevern, gjelder, utbrudd, norsk, kraft, vedtatt, midlertidig, unntak, ledd, smittevernloven, forskriften, hjemmel, gjeldende, næringsliv, lovdata 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: gjelder, dagens, situasjonen, norsk, situasjon, pandemier, skadelig, politiske, ledere, utbrudd, smittevern, ly, system, fjernet, små, politiet, lover, loven, unntak, bit 
+ 	 	 Marginal FREX: pandemier, skadelig, allmennfarlig, utbrudd, system, fjernet, handlinger, epidemier, loven, analyse, ledere, utnytte, forslaget, vilkårene, kampanjer, tilstrekkelig, ethvert, hjemmel, politiske, følelser 
+ 	 	 Marginal Lift: metadata, blood, allmennfarlig, sapiens, straffbar, hyklere, vilkårene, smvl, straffeloven, kampanjer, skadelig, homo, phishing, programvare, selvopptatte, riket, motarbeider, templat, naturkatastrofer, handlinger 
+ 	 	 Marginal Score: dagens, gjelder, pandemier, skadelig, situasjon, politiske, utbrudd, ledere, system, fjernet, situasjonen, loven, politiet, lover, ly, norsk, små, allmennfarlig, analyse, smittevern 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: covid19, norsk, gjelder, ly, dagens, smittevern, bit, situasjon, lokale, unntak, avdeling, forskrift, forskriften, lovtidend, smitteverntiltak, kunngjøringsbolk, forskrifter, koronavirus, link, midlertidig 
+ 	 	 Marginal FREX: ly, bit, forskrift, forskriften, forskrifter, ow, kunngjøringsbolk, aktuell, lovtidend, avdeling, regionale, smittevernloven, unntak, covid19forskriften, vedtak, inkluderer, buff, smittevernforskrifter, dagens, <U+2B07><U+FE0F> 
+ 	 	 Marginal Lift: covid19forskriften, cereal, americanairlines, nittedalkommune, solakommune, vestbykommune, bolken, kjøtteksport, soyabønne, donmario, mustangseeds, argentinsk, smittevernforskrift, økonomiposten, landlisten, kunngjøringsbolk, plantingsplanene, smittevernforskrifter, eksportbarrierer, grain 
+ 	 	 Marginal Score: covid19, norsk, gjelder, ly, dagens, bit, smittevern, situasjon, lokale, unntak, avdeling, forskrift, forskriften, lovtidend, smitteverntiltak, forskrifter, kunngjøringsbolk, link, regionale, midlertidig 
+Topic 26: 
+ 	 Marginal Highest Prob: oslo, kommune, uke, mars, bergen, mai, bor, kl, april, kommunen, påvist, trondheim, fredrikstad, forrige, januar, fredag, mandag, åpner, byen, uka 
+ 	 Marginal FREX: fredrikstad, rana, oslo, raymond, uke, august, johansen, hammerfest, bærum, oslos, ordføreren, kommunens, ordfører, levanger, budstikka, sarpsborg, vartoslo, volda, trinn, moss 
+ 	 Marginal Lift: sedvane, registrer, plikten, ytterlige, somaliske, endres, tildelt, innbyggerne, agderposten, politivedtekt, villsmitte, mottatt, drøy, nb, moldes, innfører, vaksinesenter, påbudet, johansen, brevet 
+ 	 Marginal Score: oslo, kommune, uke, mars, bergen, mai, bor, kl, fredrikstad, kommunen, april, trondheim, januar, forrige, fredag, påvist, mandag, åpner, byen, uka 
+ 
+ 	 Topic Kappa: sedvane, registrer, plikten, smittetall, innfører, somaliske, påvist, endres, innbyggerne, politivedtekt, agderposten, bes, tildelt, beboerne, mottatt, innbyggere, villsmitte, ullensaker, moldes, drøy 
+ 	 Kappa with Baseline: påvist, uke, oslo, innbyggere, smittetall, innfører, forrige, sist, endres, september, innbyggerne, kommuner, kommune, mottatt, raymond, besøk, johansen, koronasituasjonen, koronasmitte, nb 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: påvist, skremmende, uke, tilfelle, oslo, stat, forbud, påbud, oversikt, innbyggere, mister, nivå, myndighetene, høye, innfører, sikkerhet, sist, nasjonale, oppfordrer, smittetall 
+ 	 	 Marginal FREX: stat, påbud, påvist, mister, forbud, innbyggere, tilfelle, menneskerettigheter, abort, innfører, knyttes, oppfordrer, sikkerhet, terrorisme, institusjoner, virusvarianten, smittetall, oversikt, brudd, nasjonale 
+ 	 	 Marginal Lift: terrorisme, kommunismen, abort, brukerne, ovennevnte, virusvarianten, stat, knyttes, rystende, bølle, mobben, ytterlige, veganere, føkka, registrer, plikten, påbud, formål, sedvane, munnbindpåbudet 
+ 	 	 Marginal Score: påvist, tilfelle, skremmende, uke, stat, forbud, påbud, innbyggere, mister, oversikt, oslo, innfører, sikkerhet, nivå, høye, oppfordrer, smittetall, nasjonale, sist, brudd 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: oslo, kommune, uke, mars, bergen, mai, bor, kl, april, kommunen, trondheim, fredrikstad, januar, forrige, fredag, mandag, åpner, påvist, byen, uka 
+ 	 	 Marginal FREX: fredrikstad, oslo, rana, uke, raymond, august, sms, johansen, ordfører, byrådet, hammerfest, oslos, ordføreren, kommunens, levanger, bærum, trinn, follo, vartoslo, september 
+ 	 	 Marginal Lift: baerum, koronasenteret, isiflo, politivedtekten, surfschool, skaun, strinda, avisolert, vaksinasjonssenteret, reiserelaterte, hjemmehørende, volda, stjordal, smitteveg, formannskapet, bydelene, kriseledelsen, reiserelatert, alna, oppsamling 
+ 	 	 Marginal Score: oslo, kommune, uke, mars, bergen, mai, bor, kommunen, fredrikstad, april, kl, trondheim, januar, fredag, mandag, forrige, åpner, byen, uka, vartoslo 
+Topic 27: 
+ 	 Marginal Highest Prob: corona, måtte, gikk, tider, nesten, laget, plass, full, dra, trodde, faen, sikkert, lag, fotball, kamp, sitter, spiller, plutselig, spille, kjøpe 
+ 	 Marginal FREX: øl, hytta, klubbene, kamper, kampene, league, drikker, ligaen, fuck, stadion, premier, <U+26BD><U+FE0F>, eliteserien, bil, drikke, tribuner, tilskuere, spilles, lagene, rbk 
+ 	 Marginal Lift: ubeseiret, bortekamper, avbrekket, blanca, bortebane, capri, 2cl, scora, eibar, champions, atlético, sociedad, celtics, mbappe, unitedno, atletico, cupfinalen, assist, siro, schalke 
+ 	 Marginal Score: corona, tider, gikk, måtte, faen, dra, laget, lag, kamp, fotball, nesten, trodde, spiller, full, spille, kjøpe, plass, kamper, plutselig, sesongen 
+ 
+ 	 Topic Kappa: idioter, synder, cia, dum, kjedebrev, slemme, idioten, apokalypse, wars, gin, jesus, røver, flue, helvetes, lakers, anatomy, sauene, zombie, dævel, diktet 
+ 	 Kappa with Baseline: corona, faen, idioter, dum, spill, selger, helvete, lager, tider, jesus, fuck, hater, tok, alkohol, greia, selge, hørte, sitter 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: corona, dagbladet, idioter, kaller, faen, gud, corona_viruset, kalt, dumme, verre, tok, jævla, sa, verste, idiot, skyld, dum, menneskene, navn, covid 
+ 	 	 Marginal FREX: idioter, gud, kalt, jævla, dum, guds, jødene, faen, lidelse, jesus, hysteri, menneskene, globalistene, svin, sex, vill, religiøse, selger, internett, gale 
+ 	 	 Marginal Lift: hjernevaske, jødene, venstrevridde, nazister, utkledd, svindler, frabedt, skaperen, reptiler, regnskog, profet, fornektelse, jøder, rusmiddel, tilhengerne, forgiftet, avhengighetsskapende, selverklært, omvende, fascistisk 
+ 	 	 Marginal Score: corona, idioter, kaller, faen, gud, dagbladet, kalt, corona_viruset, jævla, idiot, dum, dumme, menneskene, verste, seriøst, krigen, skyld, hysteri, navn, lager 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: corona, måtte, gikk, tider, nesten, laget, plass, full, dra, trodde, sikkert, lag, fotball, kamp, faen, spiller, sitter, plutselig, spille, kjøpe 
+ 	 	 Marginal FREX: øl, hytta, drikke, fy, league, klubbene, bil, fuck, pausen, united, drikker, klubber, kamper, kampene, faen, ligaen, spilles, rbk, klubb, cl 
+ 	 	 Marginal Lift: ubeseiret, bortekamper, avbrekket, blanca, bortebane, capri, 2cl, scora, eibar, champions, atlético, sociedad, celtics, mbappe, unitedno, atletico, assist, cupfinalen, siro, schalke 
+ 	 	 Marginal Score: corona, tider, gikk, måtte, laget, dra, faen, lag, kamp, fotball, nesten, full, trodde, spiller, spille, kjøpe, plutselig, plass, kamper, sesongen 
+Topic 28: 
+ 	 Marginal Highest Prob: smitte, munnbind, samfunnet, ansatte, jobber, smitten, avstand, åpne, unngå, helsevesenet, stenge, nødvendig, kontakt, helsepersonell, steder, viktig, spredning, beskytte, tett, fare 
+ 	 Marginal FREX: munnbind, begrense, sosial, helsetjenesten, sårbare, meters, smitte, beskytte, unngå, hindre, spredning, utsetter, redusere, smitten, masker, fengsel, avstand, ansatte, finnmarkssykehuset, meter 
+ 	 Marginal Lift: bastøy, minimumstall, friomsorgen, smittestatistikk, kriminalomsorgen, coronawontbeneglected, mahkumayirmiyor, finnmarkssykehuset, kirurgiske, hjelpepleiere, hjemmetjeneste, hjemmetjenestene, barneidretten, butikkansatte, transportmidler, bpa, betjeningen, smittevernmessig, ventilerte, helsefagarbeidere 
+ 	 Marginal Score: smitte, munnbind, samfunnet, ansatte, jobber, smitten, avstand, åpne, unngå, helsevesenet, stenge, kontakt, nødvendig, helsepersonell, spredning, steder, beskytte, sårbare, hindre, fare 
+ 
+ 	 Topic Kappa: adferd, hindrer, forhindre, luftbåren, beskytte, reduserer, spredning, redsel, begrense, hindre, risikogr, fengsler, griper, bøter, sårbar, usolidariske, pålegge, utsetter, redusert, smitte 
+ 	 Kappa with Baseline: smitte, munnbind, beskytte, spredning, smitten, hindre, hindrer, unngå, fare, begrense, redusert, sårbare, redusere, forhindre, bidrar, unødvendig, smittespredning, reduserer, adferd, masker 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: smitte, spre, sprer, munnbind, beskytte, videre, smitten, spredning, nettopp, hindre, dermed, hindrer, unngå, særlig, grad, fare, mennesker, poenget, smitter, sårbare 
+ 	 	 Marginal FREX: spre, hindrer, sprer, beskytte, begrense, spredning, videre, forhindre, adferd, hindre, definisjon, smitte, dermed, stopper, bidrar, egoister, andres, redusert, sårbare, reduserer 
+ 	 	 Marginal Lift: adferd, barnets, hindrer, frasen, definisjon, hamster, egoister, nedfelt, kjennetegn, spre, hensynsløs, rasjonelt, redsel, forhindre, fengslene, akseptert, luftbåren, sprer, ukontrollert, nettop 
+ 	 	 Marginal Score: smitte, spre, sprer, beskytte, videre, spredning, smitten, munnbind, hindrer, hindre, dermed, unngå, fare, grad, særlig, nettopp, begrense, poenget, sårbare, smittespredning 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: smitte, munnbind, samfunnet, ansatte, jobber, smitten, avstand, åpne, helsevesenet, unngå, stenge, nødvendig, kontakt, helsepersonell, steder, viktig, tett, spredning, offentlig, beskytte 
+ 	 	 Marginal FREX: avstand, munnbind, smittespredning, sosial, masker, begrense, sårbare, smitte, unngå, stenges, hindre, helsetjenesten, beskytte, redusere, fengsel, smitten, smittespredningen, meters, spredning, påbud 
+ 	 	 Marginal Lift: bastøy, minimumstall, friomsorgen, smittestatistikk, kriminalomsorgen, coronawontbeneglected, mahkumayirmiyor, finnmarkssykehuset, kirurgiske, hjelpepleiere, hjemmetjeneste, hjemmetjenestene, barneidretten, butikkansatte, transportmidler, bpa, betjeningen, smittevernmessig, ventilerte, helsefagarbeidere 
+ 	 	 Marginal Score: smitte, munnbind, samfunnet, ansatte, jobber, avstand, smitten, åpne, unngå, helsevesenet, stenge, nødvendig, kontakt, helsepersonell, steder, spredning, tett, beskytte, sårbare, offentlig 
+Topic 29: 
+ 	 Marginal Highest Prob: stor, feil, ganske, virker, større, finnes, vanskelig, spesielt, fall, eks, svært, forskning, liten, stort, org, ulike, long_covid, særlig, effekt, ofte 
+ 	 Marginal FREX: long_covid, studier, forskning, org, studien, bevis, forvente, rolle, generell, fakta, syn, ulike, case, påstanden, leser, effekter, forskningen, vitenskapelig, usikkerhet, bildet 
+ 	 Marginal Lift: kampkomiteen, healthfeedback, motdemonstrantene, preprints, korrelert, estimatet, publikasjonen, worldbank, moba, tilgjengeligheten, pilene, lvermectin, outlier, hankjønn, fagområder, superenkel, print, ordskifte, matematikken, garderober 
+ 	 Marginal Score: stor, feil, ganske, virker, større, finnes, vanskelig, forskning, spesielt, eks, liten, org, long_covid, svært, fall, ulike, stort, effekt, særlig, grad 
+ 
+ 	 Topic Kappa: vitenskapelig, preprint, fagfellevurderte, helseforsvar, fagfellevurdering, faktasjekker, scenarioene, studien, brownstone, science, hypoteser, bmj, påstanden, worst, motbevise, fagfellevurdert, postvirale, pnas, bevis, politikkens 
+ 	 Kappa with Baseline: forskning, long_covid, org, studien, fakta, studier, basert, bevis, data, vist, ulike, vitenskapelig, kilder, påstander, leser, kunnskap, påstanden, effekt, påstår, syn 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: forskning, fakta, long_covid, basert, org, data, studien, finner, effekt, virker, studier, ulike, kjent, interessant, bevis, kunnskap, veldig, vist, lest, vitenskap 
+ 	 	 Marginal FREX: studien, vitenskapelig, bevis, studier, bmj, påstanden, long_covid, påstander, vitenskapelige, vitenskap, science, case, studiene, forskning, fakta, viten, vist, wikipedia, påstår, ukritisk 
+ 	 	 Marginal Lift: needed, understøtter, virale, who’s, holocaust, udokumenterte, trolling, avfeid, bmj, vitenskapelig, faktasjekker, scenarioene, ukritisk, science, treaty, preprint, uinformert, metaanalyse, usannsynlige, syndromer 
+ 	 	 Marginal Score: forskning, fakta, long_covid, basert, org, studien, studier, data, finner, bevis, effekt, ulike, vist, vitenskap, interessant, påstander, vitenskapelig, lest, kunnskap, kjent 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: stor, feil, ganske, virker, større, finnes, vanskelig, spesielt, fall, eks, svært, liten, stort, forskning, org, særlig, ulike, effekt, long_covid, ofte 
+ 	 	 Marginal FREX: effekt, long_covid, studier, feil, grad, org, forskning, basert, grunnlag, enige, argument, syn, kvinner, studien, dokumentasjon, forvente, antar, menn, bevis, generell 
+ 	 	 Marginal Lift: kampkomiteen, healthfeedback, motdemonstrantene, preprints, korrelert, estimatet, publikasjonen, worldbank, moba, tilgjengeligheten, pilene, lvermectin, outlier, hankjønn, fagområder, superenkel, print, ordskifte, matematikken, garderober 
+ 	 	 Marginal Score: stor, feil, ganske, virker, større, finnes, spesielt, vanskelig, eks, forskning, liten, org, fall, svært, effekt, ulike, long_covid, stort, særlig, ofte 
+Topic 30: 
+ 	 Marginal Highest Prob: covid, kommer, lurer, gått, likevel, gitt, usikker, klart, lang, skjer, nesten, tenker, tro, klar, lurt, faktisk, samtidig, kommet, finnes, personar 
+ 	 Marginal FREX: lurer, kommer, covid, usikker, gitt, likevel, gått, lang, klart, personar, skjer, nesten, lurt, smittekjelde, tenker, tro, kommet, klar, verste, alderen 
+ 	 Marginal Lift: smittekjelde, utanlandsreise, personar, usikker, lurer, covid, kommer, ukjend, gått, likevel, gitt, nærkontaktar, lang, alderen, klart, skjer, lurt, éin, nesten, verste 
+ 	 Marginal Score: covid, kommer, lurer, gått, usikker, likevel, gitt, klart, lang, skjer, nesten, personar, tenker, tro, lurt, faktisk, finnes, klar, smittekjelde, kommet 
+ 
+ 	 Topic Kappa: kommer, klart, lang, lurer, nesten, likevel, covid, skjer, lurt, kommet, sa, gitt, fall, rart, trenger, plass, sette, tanke, enkelt, selvfølgelig 
+ 	 Kappa with Baseline: covid, kommer, klart, nesten, lang, lurer, likevel, skjer, sa, trenger, gitt, bedre, kommet, fall, lurt, viktig, rart 
+ 
+ 	 Covariate misinfo: 
+ 	 	 Marginal Highest Prob: covid, kommer, tro, nesten, faktisk, finnes, lenge, klart, lurer, likevel, lurt, sant, mennesker, lang, skjer, allerede, lenger, rart, sa, fall 
+ 	 	 Marginal FREX: tro, nesten, kommer, faktisk, klart, covid, lurt, lurer, lenge, finnes, likevel, lang, sant, skjer, allerede, lenger, rart, fall, sa, mennesker 
+ 	 	 Marginal Lift: tro, lurt, nesten, finnes, sant, faktisk, lurer, klart, kommer, likevel, lenge, lang, covid, rart, skjer, lenger, allerede, gitt, fall, mennesker 
+ 	 	 Marginal Score: covid, tro, kommer, nesten, faktisk, finnes, klart, lenge, lurer, lurt, likevel, sant, lang, skjer, allerede, lenger, mennesker, rart, sa, fall 
+ 	 Covariate non.misinfo: 
+ 	 	 Marginal Highest Prob: covid, kommer, lurer, gått, gitt, likevel, usikker, klart, lang, skjer, tenker, nesten, klar, samtidig, personar, kommet, verste, lurt, tidligere, sa 
+ 	 	 Marginal FREX: covid, lurer, kommer, usikker, gitt, gått, likevel, personar, lang, klart, skjer, smittekjelde, tenker, nesten, lurt, verste, kommet, klar, alderen, samtidig 
+ 	 	 Marginal Lift: smittekjelde, utanlandsreise, personar, usikker, lurer, covid, kommer, ukjend, gått, likevel, gitt, nærkontaktar, lang, alderen, klart, skjer, éin, lurt, verste, klar 
+ 	 	 Marginal Score: covid, kommer, lurer, gått, usikker, likevel, gitt, lang, klart, skjer, personar, tenker, nesten, klar, smittekjelde, alderen, kommet, samtidig, verste, lurt 
