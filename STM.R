@@ -44,7 +44,7 @@ saveRDS(twitter_nort, "D:/Data/Datasets/CADS_datasets/twitter_data_no_rt.RDS")
 
 ################################################################################
 
-twitter <- readRDS("D:/Data/Datasets/CADS_datasets/twitter_data_no_rt.RDS")
+twitter <- readRDS("E:/Data/Datasets/CADS_datasets/twitter_data_no_rt.RDS")
 glimpse(twitter)
 
 removeUsernames <- function(tweet) {
@@ -193,9 +193,9 @@ stm_30_terms |>
 #   select(-rank) |>
 #   knitr::kable()
 
-topics_40 <- sageLabels(stm_40_interaction, n = 20)
-sink("topics_40.txt", append = FALSE, split = TRUE)
-print(topics_40)
+topics_30 <- sageLabels(stm_30_interaction, n = 20)
+sink("topics_30.txt", append = FALSE, split = TRUE)
+print(topics_30)
 sink()
 
 ################################################################################
@@ -222,7 +222,7 @@ effect30_label_filt <- effect30_label |>
   filter(!topic %in% c(7, 10, 14, 27, 30)) |>
   droplevels()
 
-effect30_label_filt |>
+effect30_label |>
   ggplot(aes(x = topic, y = proportion, color = value, group = value, fill = value)) +
   geom_point(size = 3) +
   geom_errorbar(aes(ymin = lower, ymax = upper), width = 0.3) +
@@ -462,7 +462,8 @@ prev_4 <- effect_time |>
                       breaks = seq(from = 18262, to = 19312, by = 60),
                       labels = labels_to_use_2) +
   scale_color_manual(values=c("#8c510a", "#d8b365")) +
-  theme(legend.position = "top",  axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+  theme(legend.position = "inside", legend.position.inside = c(.5,.85),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
         plot.subtitle = element_text(size = 12)) +
     labs(title = "", 
          subtitle = "4: American Politics", 
@@ -478,7 +479,8 @@ prev_6 <- effect_time |>
                      breaks = seq(from = 18262, to = 19312, by = 60),
                      labels = labels_to_use_2) +
   scale_color_manual(values=c("#8c510a", "#d8b365")) +
-  theme(legend.position = "none",  axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+  theme(legend.position = "inside", legend.position.inside = c(.5,.85),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
         plot.subtitle = element_text(size = 12)) +
   labs(title = "",
        subtitle = "6: Economy and Finance", 
@@ -494,7 +496,8 @@ prev_13 <- effect_time |>
                      breaks = seq(from = 18262, to = 19312, by = 60),
                      labels = labels_to_use_2) +
   scale_color_manual(values=c("#8c510a", "#d8b365")) +
-  theme(legend.position = "none",  axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+  theme(legend.position = "inside", legend.position.inside = c(.5,.85),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
         plot.subtitle = element_text(size = 12)) +
   labs(title = "",
        subtitle = "13: International News", 
@@ -510,17 +513,18 @@ prev_18 <- effect_time |>
                      breaks = seq(from = 18262, to = 19312, by = 60),
                      labels = labels_to_use_2) +
   scale_color_manual(values=c("#8c510a", "#d8b365")) +
-  theme(legend.position = "none",  axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+  theme(legend.position = "inside", legend.position.inside = c(.5,.85),
+        axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
         plot.subtitle = element_text(size = 12)) +
   labs(title = "", 
        subtitle = "18: International Politics",
        y = "Prevalence", x = "Month", color = "Label")
 
-prev_4 + sent_4 + prev_6 + sent_6 + prev_13 + sent_13 + prev_18 + sent_18 +
+prev_4 + prev_6 + prev_13 + prev_18  +
   plot_layout(ncol = 2, axes = "collect") &
-  theme(title = element_text(size = 10))
+  theme(title = element_text(size = 12))
 
-ggsave("Figure 2.tiff", width = 2300, height = 3000, unit = "px", dpi = 300, limitsize = FALSE)
+ggsave("Figure 2.tiff", width = 2500, height = 2800, unit = "px", dpi = 300, limitsize = FALSE)
 
 ################################################################################
 prev_1 <- effect_time |>
@@ -599,8 +603,8 @@ twitter_topics <- twitter |>
 
 theta <- make.dt(stm_30_interaction) 
 theta1 <- theta |>
-  arrange(desc(Topic1)) |>
-  select(docnum, Topic1) |>
+  arrange(desc(Topic6)) |>
+  select(docnum, Topic6) |>
   slice(1:500)
 
 tweets_1 <- twitter_topics[as.numeric(theta1$docnum), , drop = FALSE]
@@ -652,7 +656,7 @@ saveRDS(twitter_topics, "D:/Data/Datasets/CADS_datasets/twitter_topics_30.RDS")
 ################################################################################
 ## Clusters 
 
-out_corr40 <- topicCorr(stm_40_interaction, cutoff = 0.04, set.seed(1234))
+out_corr40 <- topicCorr(stm_30_interaction, cutoff = 0.04, set.seed(1234))
 out_corr40$cor[out_corr40$cor<0.04] <- 0
 
 network <- graph_from_adjacency_matrix(out_corr40$cor, weighted = T, mode = "undirected", diag =
